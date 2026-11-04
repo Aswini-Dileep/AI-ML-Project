@@ -1,0 +1,1001 @@
+School_ID,State,District,School_Type,Students,Teachers,Study_Groups,Subjects,Classrooms,Computer_Labs,Library_Available,Computers,Student_Teacher_Ratio
+SCH0001,Odisha,Khordha,Government,625,26,19,10,24,0,1,19,24.04
+SCH0002,Uttar Pradesh,Varanasi,Government,698,37,24,13,31,0,1,20,18.86
+SCH0003,West Bengal,Hooghly,Government,1967,66,55,17,64,4,1,77,29.8
+SCH0004,Tamil Nadu,Salem,Government,549,20,19,11,25,2,0,6,27.45
+SCH0005,Odisha,Khordha,Private,72,5,3,8,5,1,1,13,14.4
+SCH0006,West Bengal,Howrah,Government,950,44,27,17,37,5,1,57,21.59
+SCH0007,Rajasthan,Jaipur,Government,619,21,20,10,27,2,1,27,29.48
+SCH0008,Odisha,Cuttack,Government,528,15,15,12,21,2,1,4,35.2
+SCH0009,Uttar Pradesh,Kanpur Nagar,Private,206,9,6,8,7,2,1,7,22.89
+SCH0010,Kerala,Kollam,Private,865,32,25,9,26,1,1,45,27.03
+SCH0011,Gujarat,Rajkot,Aided,273,9,10,9,12,0,0,0,30.33
+SCH0012,Rajasthan,Jaipur,Government,1241,53,35,17,45,5,1,80,23.42
+SCH0013,Maharashtra,Mumbai Suburban,Government,724,26,22,9,23,1,1,38,27.85
+SCH0014,Karnataka,Dharwad,Private,1046,50,34,14,44,4,0,72,20.92
+SCH0015,Karnataka,Bengaluru Urban,Government,579,22,17,12,27,0,1,21,26.32
+SCH0016,Gujarat,Bhavnagar,Government,169,5,6,9,8,2,1,0,33.8
+SCH0017,Uttar Pradesh,Kanpur Nagar,Private,737,27,25,12,33,2,1,17,27.3
+SCH0018,Tamil Nadu,Madurai,Government,180,5,5,8,4,0,1,0,36.0
+SCH0019,West Bengal,Darjeeling,Private,2080,94,68,15,72,3,1,41,22.13
+SCH0020,Maharashtra,Nagpur,Government,682,22,22,13,29,1,1,20,31.0
+SCH0021,West Bengal,Hooghly,Government,596,19,19,16,23,3,1,11,31.37
+SCH0022,Kerala,Kollam,Government,94,5,3,8,4,0,0,42,18.8
+SCH0023,Maharashtra,Mumbai Suburban,Government,1278,55,34,11,30,1,1,85,23.24
+SCH0024,Madhya Pradesh,Jabalpur,Private,1593,62,52,14,64,4,1,57,25.69
+SCH0025,Odisha,Ganjam,Government,634,23,19,13,24,3,1,10,27.57
+SCH0026,Rajasthan,Jodhpur,Government,247,8,7,6,5,1,1,0,30.88
+SCH0027,Karnataka,Dharwad,Government,513,16,17,14,27,2,1,18,32.06
+SCH0028,West Bengal,Hooghly,Government,125,7,4,12,7,0,1,0,17.86
+SCH0029,Madhya Pradesh,Bhopal,Government,285,5,11,5,15,1,0,12,57.0
+SCH0030,Madhya Pradesh,Indore,Private,960,30,32,8,35,2,1,1,32.0
+SCH0031,West Bengal,Nadia,Government,455,18,15,14,12,1,1,10,25.28
+SCH0032,Madhya Pradesh,Gwalior,Government,1328,73,37,16,43,5,0,71,18.19
+SCH0033,Rajasthan,Udaipur,Private,130,5,4,11,3,1,1,6,26.0
+SCH0034,Rajasthan,Jaipur,Government,110,7,4,10,6,1,1,5,15.71
+SCH0035,Maharashtra,Nagpur,Government,694,29,19,11,30,2,1,21,23.93
+SCH0036,Maharashtra,Kolhapur,Private,202,5,7,8,8,0,1,22,40.4
+SCH0037,Tamil Nadu,Tiruchirappalli,Government,155,7,4,11,8,0,1,14,22.14
+SCH0038,Maharashtra,Kolhapur,Government,681,26,21,14,26,0,1,23,26.19
+SCH0039,Karnataka,Mysuru,Government,261,9,7,12,7,0,1,0,29.0
+SCH0040,Karnataka,Udupi,Government,588,19,16,12,24,1,1,35,30.95
+SCH0041,Maharashtra,Kolhapur,Government,618,18,18,15,29,3,0,58,34.33
+SCH0042,Gujarat,Vadodara,Aided,1459,69,43,15,54,3,1,79,21.14
+SCH0043,West Bengal,Hooghly,Government,573,26,20,12,20,1,1,6,22.04
+SCH0044,Rajasthan,Udaipur,Government,203,10,7,14,8,2,1,0,20.3
+SCH0045,West Bengal,Kolkata,Private,1413,71,42,15,51,5,1,79,19.9
+SCH0046,Madhya Pradesh,Ujjain,Government,1610,57,47,12,50,2,1,82,28.25
+SCH0047,Maharashtra,Nashik,Private,587,22,20,15,20,2,1,27,26.68
+SCH0048,West Bengal,Hooghly,Private,127,5,4,8,6,0,1,0,25.4
+SCH0049,Tamil Nadu,Chennai,Government,674,31,20,11,21,3,1,22,21.74
+SCH0050,Maharashtra,Mumbai Suburban,Government,177,5,6,11,8,0,1,11,35.4
+SCH0051,Kerala,Kozhikode,Government,159,8,4,9,3,0,1,26,19.88
+SCH0052,West Bengal,Kolkata,Government,220,5,7,13,10,0,1,0,44.0
+SCH0053,West Bengal,Nadia,Private,575,21,18,12,22,0,1,33,27.38
+SCH0054,Karnataka,Bengaluru Urban,Government,496,19,16,11,16,2,1,23,26.11
+SCH0055,Madhya Pradesh,Ujjain,Government,481,20,16,12,19,2,1,25,24.05
+SCH0056,West Bengal,Hooghly,Private,617,33,21,8,26,2,1,23,18.7
+SCH0057,West Bengal,Nadia,Government,599,30,19,11,26,0,1,22,19.97
+SCH0058,West Bengal,Hooghly,Aided,696,22,20,12,29,3,1,4,31.64
+SCH0059,Tamil Nadu,Chennai,Government,213,7,6,8,7,0,1,0,30.43
+SCH0060,Rajasthan,Udaipur,Government,64,5,3,11,6,2,1,25,12.8
+SCH0061,Karnataka,Udupi,Government,683,21,22,12,24,2,1,0,32.52
+SCH0062,Madhya Pradesh,Gwalior,Private,585,31,17,9,14,2,1,43,18.87
+SCH0063,Odisha,Cuttack,Private,533,16,16,9,19,2,1,36,33.31
+SCH0064,Odisha,Ganjam,Aided,432,15,14,12,22,2,1,15,28.8
+SCH0065,Uttar Pradesh,Kanpur Nagar,Aided,642,24,19,13,19,1,0,2,26.75
+SCH0066,Madhya Pradesh,Jabalpur,Government,828,35,27,12,30,2,0,1,23.66
+SCH0067,Rajasthan,Ajmer,Private,650,36,20,9,23,2,1,18,18.06
+SCH0068,Tamil Nadu,Salem,Private,195,7,6,9,8,0,1,18,27.86
+SCH0069,Tamil Nadu,Chennai,Aided,188,5,6,11,9,0,0,37,37.6
+SCH0070,Kerala,Thiruvananthapuram,Government,460,19,13,12,18,1,1,17,24.21
+SCH0071,West Bengal,Howrah,Government,167,9,6,10,7,0,1,0,18.56
+SCH0072,Odisha,Khordha,Private,536,16,16,11,19,3,1,51,33.5
+SCH0073,Gujarat,Rajkot,Private,1474,78,42,13,48,3,0,78,18.9
+SCH0074,Maharashtra,Nagpur,Private,150,7,5,10,10,0,1,0,21.43
+SCH0075,Madhya Pradesh,Jabalpur,Government,186,14,5,11,8,0,1,23,13.29
+SCH0076,Tamil Nadu,Chennai,Government,197,6,6,9,7,0,1,7,32.83
+SCH0077,Tamil Nadu,Coimbatore,Private,153,5,5,9,7,1,1,0,30.6
+SCH0078,West Bengal,Howrah,Government,648,27,18,11,25,0,1,43,24.0
+SCH0079,Maharashtra,Nagpur,Private,734,23,20,13,22,2,1,31,31.91
+SCH0080,Kerala,Kottayam,Government,657,24,19,12,21,2,1,5,27.38
+SCH0081,Kerala,Kollam,Private,429,18,14,11,17,2,0,15,23.83
+SCH0082,Odisha,Khordha,Private,686,37,22,14,23,2,0,22,18.54
+SCH0083,Rajasthan,Ajmer,Government,1532,55,43,13,49,2,1,92,27.85
+SCH0084,West Bengal,Howrah,Government,227,5,7,10,9,0,1,0,45.4
+SCH0085,Karnataka,Dharwad,Government,129,5,5,6,6,1,1,0,25.8
+SCH0086,Rajasthan,Ajmer,Government,219,7,6,9,5,0,1,0,31.29
+SCH0087,Tamil Nadu,Madurai,Government,350,13,11,11,14,0,0,40,26.92
+SCH0088,Tamil Nadu,Tiruchirappalli,Government,610,31,17,13,18,0,1,12,19.68
+SCH0089,Rajasthan,Kota,Government,284,8,8,6,8,1,1,0,35.5
+SCH0090,Rajasthan,Jaipur,Government,492,22,17,12,28,0,1,28,22.36
+SCH0091,Maharashtra,Kolhapur,Government,101,5,4,8,6,0,1,15,20.2
+SCH0092,Rajasthan,Jodhpur,Government,546,18,17,15,21,0,1,0,30.33
+SCH0093,Gujarat,Ahmedabad,Government,703,25,20,10,25,1,1,13,28.12
+SCH0094,Odisha,Puri,Government,686,23,24,13,31,2,1,17,29.83
+SCH0095,Madhya Pradesh,Ujjain,Government,136,6,5,9,4,0,1,17,22.67
+SCH0096,Kerala,Kottayam,Aided,731,27,21,11,26,2,1,25,27.07
+SCH0097,Madhya Pradesh,Ujjain,Government,175,5,6,9,9,0,1,1,35.0
+SCH0098,West Bengal,Howrah,Government,187,5,6,10,9,1,1,37,37.4
+SCH0099,Gujarat,Vadodara,Government,115,5,4,11,6,0,1,51,23.0
+SCH0100,Uttar Pradesh,Agra,Government,1654,76,47,12,53,5,1,71,21.76
+SCH0101,Odisha,Puri,Government,1787,77,48,12,57,2,1,66,23.21
+SCH0102,Karnataka,Bengaluru Urban,Government,629,40,21,10,27,2,1,37,15.72
+SCH0103,Kerala,Kottayam,Government,139,5,4,11,7,1,1,21,27.8
+SCH0104,Kerala,Kozhikode,Government,1990,84,65,14,71,3,1,49,23.69
+SCH0105,Maharashtra,Pune,Government,686,24,22,11,27,2,1,28,28.58
+SCH0106,Madhya Pradesh,Gwalior,Government,627,28,21,16,25,1,1,41,22.39
+SCH0107,Madhya Pradesh,Indore,Aided,555,20,16,14,19,2,1,24,27.75
+SCH0108,Tamil Nadu,Tiruchirappalli,Government,205,10,8,8,8,1,1,19,20.5
+SCH0109,Maharashtra,Pune,Aided,194,7,7,8,7,0,0,28,27.71
+SCH0110,Karnataka,Belagavi,Aided,1886,54,50,13,56,2,1,47,34.93
+SCH0111,Rajasthan,Ajmer,Government,701,28,25,12,28,0,1,0,25.04
+SCH0112,Gujarat,Bhavnagar,Government,149,5,5,7,8,1,1,0,29.8
+SCH0113,Uttar Pradesh,Kanpur Nagar,Private,166,7,5,10,6,2,1,1,23.71
+SCH0114,Madhya Pradesh,Jabalpur,Government,546,21,15,10,23,2,1,24,26.0
+SCH0115,Kerala,Ernakulam,Private,186,5,5,9,5,1,1,41,37.2
+SCH0116,West Bengal,Hooghly,Government,1072,58,30,15,35,3,1,60,18.48
+SCH0117,Tamil Nadu,Tiruchirappalli,Private,383,9,13,11,16,1,1,9,42.56
+SCH0118,Maharashtra,Nashik,Government,350,11,11,14,16,2,1,13,31.82
+SCH0119,Maharashtra,Mumbai Suburban,Government,701,19,24,11,28,2,0,34,36.89
+SCH0120,West Bengal,Kolkata,Government,350,13,12,14,15,2,1,29,26.92
+SCH0121,West Bengal,Darjeeling,Private,738,20,23,14,23,3,1,42,36.9
+SCH0122,Kerala,Thiruvananthapuram,Private,492,18,17,6,20,1,1,18,27.33
+SCH0123,Odisha,Puri,Government,263,11,7,9,9,1,1,4,23.91
+SCH0124,Odisha,Puri,Government,574,20,19,7,27,2,1,47,28.7
+SCH0125,Rajasthan,Jaipur,Private,121,5,4,9,5,3,0,24,24.2
+SCH0126,Tamil Nadu,Chennai,Government,587,33,21,12,28,1,1,36,17.79
+SCH0127,Uttar Pradesh,Varanasi,Private,177,6,5,10,3,2,1,32,29.5
+SCH0128,Madhya Pradesh,Ujjain,Government,211,5,8,7,12,1,1,4,42.2
+SCH0129,West Bengal,Hooghly,Government,156,10,6,9,6,0,1,0,15.6
+SCH0130,Gujarat,Surat,Private,515,27,15,8,23,2,1,30,19.07
+SCH0131,Maharashtra,Nagpur,Government,151,5,5,11,8,1,1,0,30.2
+SCH0132,West Bengal,Kolkata,Government,1325,101,37,12,42,2,1,85,13.12
+SCH0133,Madhya Pradesh,Gwalior,Government,724,50,21,11,25,2,1,57,14.48
+SCH0134,Madhya Pradesh,Ujjain,Government,298,14,10,9,9,0,0,0,21.29
+SCH0135,Madhya Pradesh,Ujjain,Government,789,28,22,13,28,2,1,19,28.18
+SCH0136,Uttar Pradesh,Agra,Aided,233,7,9,8,12,1,1,0,33.29
+SCH0137,Odisha,Khordha,Government,1009,55,32,13,36,3,1,75,18.35
+SCH0138,West Bengal,Hooghly,Aided,546,19,16,8,18,2,1,21,28.74
+SCH0139,Kerala,Kozhikode,Government,656,25,23,14,27,3,1,28,26.24
+SCH0140,Odisha,Cuttack,Aided,134,8,5,9,9,0,1,26,16.75
+SCH0141,Madhya Pradesh,Bhopal,Government,791,30,24,13,31,2,1,16,26.37
+SCH0142,West Bengal,Kolkata,Private,756,30,23,13,28,0,1,52,25.2
+SCH0143,Madhya Pradesh,Bhopal,Aided,1375,87,45,14,58,5,1,82,15.8
+SCH0144,Kerala,Kottayam,Private,644,23,22,9,24,2,1,32,28.0
+SCH0145,Gujarat,Vadodara,Private,753,32,27,9,31,2,1,23,23.53
+SCH0146,Madhya Pradesh,Ujjain,Government,205,10,7,12,10,1,1,28,20.5
+SCH0147,Maharashtra,Mumbai Suburban,Aided,118,5,4,14,3,1,1,11,23.6
+SCH0148,Rajasthan,Kota,Government,481,20,16,14,25,1,1,32,24.05
+SCH0149,Karnataka,Mysuru,Private,859,34,26,13,28,2,1,13,25.26
+SCH0150,Madhya Pradesh,Ujjain,Government,55,5,3,9,7,2,1,0,11.0
+SCH0151,Maharashtra,Kolhapur,Government,984,59,28,11,34,3,1,79,16.68
+SCH0152,West Bengal,Nadia,Private,1210,59,33,15,44,5,1,53,20.51
+SCH0153,Tamil Nadu,Coimbatore,Government,115,6,3,8,7,0,1,0,19.17
+SCH0154,Uttar Pradesh,Varanasi,Government,455,24,14,11,18,2,1,9,18.96
+SCH0155,Maharashtra,Mumbai Suburban,Government,263,11,8,7,8,0,1,0,23.91
+SCH0156,Uttar Pradesh,Varanasi,Government,377,15,13,12,16,1,1,47,25.13
+SCH0157,Rajasthan,Jodhpur,Government,164,5,5,10,8,2,1,23,32.8
+SCH0158,Gujarat,Rajkot,Government,643,31,23,9,31,0,1,20,20.74
+SCH0159,Madhya Pradesh,Ujjain,Private,704,27,21,10,23,2,1,28,26.07
+SCH0160,Kerala,Ernakulam,Private,350,14,10,12,14,0,1,26,25.0
+SCH0161,Tamil Nadu,Coimbatore,Government,247,7,7,9,11,0,1,0,35.29
+SCH0162,Gujarat,Surat,Private,1007,54,27,15,45,3,1,61,18.65
+SCH0163,Maharashtra,Kolhapur,Government,124,6,5,11,3,2,1,5,20.67
+SCH0164,Karnataka,Udupi,Private,205,9,6,7,8,1,1,19,22.78
+SCH0165,Uttar Pradesh,Lucknow,Aided,350,13,11,8,14,3,1,37,26.92
+SCH0166,Karnataka,Udupi,Private,164,7,6,8,13,1,1,31,23.43
+SCH0167,West Bengal,Howrah,Government,1823,74,50,14,60,3,1,63,24.64
+SCH0168,Karnataka,Udupi,Private,1835,73,55,14,63,3,1,78,25.14
+SCH0169,Uttar Pradesh,Varanasi,Aided,187,5,6,8,8,0,1,0,37.4
+SCH0170,Rajasthan,Jaipur,Government,950,33,29,16,43,4,0,65,28.79
+SCH0171,Tamil Nadu,Chennai,Aided,305,16,8,11,8,0,1,6,19.06
+SCH0172,Gujarat,Bhavnagar,Government,823,31,25,13,33,1,1,16,26.55
+SCH0173,Rajasthan,Udaipur,Private,243,9,9,7,13,2,0,10,27.0
+SCH0174,Tamil Nadu,Salem,Government,950,35,27,12,52,4,1,66,27.14
+SCH0175,Madhya Pradesh,Jabalpur,Government,135,5,5,6,7,0,1,14,27.0
+SCH0176,West Bengal,Darjeeling,Government,228,7,6,9,8,0,1,0,32.57
+SCH0177,Uttar Pradesh,Lucknow,Government,507,22,18,10,25,2,1,4,23.05
+SCH0178,Madhya Pradesh,Bhopal,Government,1306,54,35,16,45,3,1,65,24.19
+SCH0179,Tamil Nadu,Salem,Government,2130,75,70,14,74,4,1,55,28.4
+SCH0180,Madhya Pradesh,Ujjain,Government,756,25,24,14,28,3,1,14,30.24
+SCH0181,Gujarat,Surat,Private,1947,94,56,15,74,3,1,68,20.71
+SCH0182,Gujarat,Rajkot,Government,1704,61,55,10,68,1,1,73,27.93
+SCH0183,Gujarat,Ahmedabad,Government,951,45,31,12,36,0,1,15,21.13
+SCH0184,West Bengal,Hooghly,Government,246,8,8,10,8,0,1,0,30.75
+SCH0185,West Bengal,Howrah,Private,882,33,26,12,27,3,1,46,26.73
+SCH0186,Odisha,Puri,Government,609,13,19,17,21,2,0,44,46.85
+SCH0187,Kerala,Kozhikode,Private,79,5,3,8,3,1,0,3,15.8
+SCH0188,Maharashtra,Nashik,Private,244,10,8,5,12,0,1,14,24.4
+SCH0189,Karnataka,Bengaluru Urban,Government,622,21,21,12,23,2,1,30,29.62
+SCH0190,Gujarat,Ahmedabad,Aided,189,9,6,9,7,0,1,11,21.0
+SCH0191,Madhya Pradesh,Indore,Government,1632,60,49,13,63,3,1,48,27.2
+SCH0192,Tamil Nadu,Madurai,Aided,136,10,4,9,6,0,1,12,13.6
+SCH0193,Rajasthan,Jaipur,Aided,125,5,4,12,3,0,0,0,25.0
+SCH0194,Maharashtra,Mumbai Suburban,Government,1286,68,42,16,49,2,1,67,18.91
+SCH0195,Kerala,Ernakulam,Government,136,5,5,12,10,0,1,17,27.2
+SCH0196,Gujarat,Rajkot,Government,230,8,9,9,11,0,1,12,28.75
+SCH0197,Madhya Pradesh,Bhopal,Private,752,26,25,10,27,0,1,28,28.92
+SCH0198,Karnataka,Belagavi,Government,1534,59,43,16,55,4,1,66,26.0
+SCH0199,Karnataka,Bengaluru Urban,Government,106,7,3,9,6,4,0,12,15.14
+SCH0200,Kerala,Kollam,Government,234,8,7,7,9,1,1,0,29.25
+SCH0201,Tamil Nadu,Madurai,Government,575,30,20,13,24,2,1,30,19.17
+SCH0202,Madhya Pradesh,Gwalior,Aided,1128,64,33,15,46,4,1,78,17.62
+SCH0203,Gujarat,Surat,Government,684,32,24,13,26,0,1,14,21.38
+SCH0204,Kerala,Kottayam,Government,87,5,3,11,3,0,1,23,17.4
+SCH0205,Rajasthan,Kota,Private,255,8,9,10,11,1,0,0,31.88
+SCH0206,Odisha,Sambalpur,Private,225,6,7,11,9,3,1,29,37.5
+SCH0207,Maharashtra,Nashik,Government,60,5,3,10,3,0,0,31,12.0
+SCH0208,Maharashtra,Pune,Aided,537,20,16,10,23,3,0,29,26.85
+SCH0209,Maharashtra,Pune,Government,201,8,6,11,9,0,1,22,25.12
+SCH0210,Gujarat,Surat,Government,509,15,17,10,20,2,1,18,33.93
+SCH0211,Maharashtra,Pune,Government,613,23,18,12,26,1,0,8,26.65
+SCH0212,Kerala,Kollam,Government,489,18,15,15,22,1,1,5,27.17
+SCH0213,Tamil Nadu,Coimbatore,Government,113,5,4,8,5,1,1,7,22.6
+SCH0214,West Bengal,Darjeeling,Government,1642,59,44,16,58,4,1,50,27.83
+SCH0215,Madhya Pradesh,Gwalior,Aided,730,30,25,12,33,1,1,37,24.33
+SCH0216,West Bengal,Kolkata,Private,648,22,19,12,24,1,1,25,29.45
+SCH0217,Odisha,Puri,Government,154,6,5,7,6,0,1,19,25.67
+SCH0218,Kerala,Kozhikode,Private,84,5,3,7,5,1,1,20,16.8
+SCH0219,West Bengal,Darjeeling,Government,950,47,28,15,32,1,1,51,20.21
+SCH0220,Kerala,Thiruvananthapuram,Government,625,24,19,9,24,0,1,25,26.04
+SCH0221,Kerala,Thiruvananthapuram,Aided,161,7,4,13,6,0,0,14,23.0
+SCH0222,West Bengal,Hooghly,Private,356,13,12,10,12,2,1,11,27.38
+SCH0223,Uttar Pradesh,Varanasi,Private,535,21,16,9,18,0,1,50,25.48
+SCH0224,West Bengal,Howrah,Government,950,42,27,14,30,2,1,67,22.62
+SCH0225,Gujarat,Bhavnagar,Government,259,6,8,15,12,1,1,16,43.17
+SCH0226,Rajasthan,Ajmer,Private,950,31,27,16,37,3,1,61,30.65
+SCH0227,Uttar Pradesh,Prayagraj,Government,183,5,6,8,10,1,0,7,36.6
+SCH0228,Kerala,Kottayam,Government,949,31,32,10,34,1,1,27,30.61
+SCH0229,Gujarat,Surat,Government,385,9,11,15,20,2,1,20,42.78
+SCH0230,Karnataka,Mysuru,Private,94,5,3,9,4,0,1,23,18.8
+SCH0231,Maharashtra,Kolhapur,Private,250,7,9,7,11,0,1,12,35.71
+SCH0232,Tamil Nadu,Tiruchirappalli,Government,790,24,23,15,29,2,1,27,32.92
+SCH0233,Tamil Nadu,Madurai,Private,1606,61,49,14,61,5,1,63,26.33
+SCH0234,Maharashtra,Kolhapur,Government,695,25,22,12,28,1,1,11,27.8
+SCH0235,Karnataka,Mysuru,Private,986,58,27,18,44,4,1,45,17.0
+SCH0236,Rajasthan,Kota,Government,1752,88,50,16,61,3,1,89,19.91
+SCH0237,West Bengal,Nadia,Government,716,27,25,14,33,1,1,31,26.52
+SCH0238,Tamil Nadu,Tiruchirappalli,Government,742,30,24,15,28,2,1,32,24.73
+SCH0239,Rajasthan,Jodhpur,Government,231,6,8,5,9,1,1,16,38.5
+SCH0240,Maharashtra,Mumbai Suburban,Government,313,14,10,7,12,1,1,0,22.36
+SCH0241,West Bengal,Nadia,Government,2080,83,68,14,90,2,1,80,25.06
+SCH0242,Rajasthan,Jodhpur,Aided,867,35,31,14,31,1,1,14,24.77
+SCH0243,Rajasthan,Jaipur,Government,59,5,3,8,3,1,1,0,11.8
+SCH0244,West Bengal,Nadia,Private,963,37,28,13,36,3,1,23,26.03
+SCH0245,Rajasthan,Udaipur,Private,575,14,17,15,17,1,1,21,41.07
+SCH0246,Gujarat,Vadodara,Government,1312,47,41,17,58,4,1,70,27.91
+SCH0247,Odisha,Puri,Government,465,16,13,13,19,1,1,25,29.06
+SCH0248,Uttar Pradesh,Varanasi,Government,643,18,18,9,24,3,1,34,35.72
+SCH0249,Gujarat,Rajkot,Government,138,5,4,10,5,0,1,47,27.6
+SCH0250,Gujarat,Rajkot,Government,605,33,21,11,29,1,1,7,18.33
+SCH0251,Rajasthan,Jaipur,Government,494,21,16,13,20,1,1,32,23.52
+SCH0252,Uttar Pradesh,Varanasi,Government,1478,75,45,16,58,4,1,75,19.71
+SCH0253,Karnataka,Dharwad,Government,602,18,21,12,27,1,1,68,33.44
+SCH0254,Uttar Pradesh,Agra,Private,150,5,4,6,4,0,1,17,30.0
+SCH0255,Gujarat,Rajkot,Government,71,5,3,8,7,0,1,5,14.2
+SCH0256,Rajasthan,Kota,Government,595,28,18,14,17,2,1,24,21.25
+SCH0257,Gujarat,Rajkot,Government,1606,57,45,16,52,4,1,51,28.18
+SCH0258,Rajasthan,Jodhpur,Government,175,7,6,12,4,2,1,3,25.0
+SCH0259,Karnataka,Bengaluru Urban,Aided,147,7,4,6,5,0,1,0,21.0
+SCH0260,Odisha,Ganjam,Government,565,26,18,7,23,1,1,24,21.73
+SCH0261,Rajasthan,Jaipur,Government,160,5,5,9,9,1,1,3,32.0
+SCH0262,Kerala,Kottayam,Private,1427,66,44,15,52,4,1,50,21.62
+SCH0263,Tamil Nadu,Coimbatore,Aided,129,5,4,8,7,0,1,7,25.8
+SCH0264,West Bengal,Kolkata,Government,185,13,6,7,13,1,1,0,14.23
+SCH0265,Odisha,Khordha,Private,950,52,27,13,34,4,1,90,18.27
+SCH0266,Kerala,Kottayam,Aided,207,5,7,7,10,0,1,0,41.4
+SCH0267,Gujarat,Vadodara,Government,106,5,3,12,5,1,1,0,21.2
+SCH0268,Uttar Pradesh,Lucknow,Government,153,5,5,5,4,0,1,0,30.6
+SCH0269,Kerala,Kozhikode,Aided,138,5,5,9,8,0,1,0,27.6
+SCH0270,Tamil Nadu,Chennai,Private,82,5,3,5,4,0,1,0,16.4
+SCH0271,Karnataka,Mysuru,Government,201,7,6,11,9,1,1,0,28.71
+SCH0272,Madhya Pradesh,Bhopal,Government,229,7,6,11,8,1,1,30,32.71
+SCH0273,West Bengal,Hooghly,Government,125,6,3,5,4,0,1,0,20.83
+SCH0274,West Bengal,Darjeeling,Government,550,22,16,11,18,1,1,45,25.0
+SCH0275,Tamil Nadu,Coimbatore,Aided,579,24,16,10,17,0,1,29,24.12
+SCH0276,West Bengal,Hooghly,Aided,670,25,20,13,27,1,1,4,26.8
+SCH0277,Kerala,Thiruvananthapuram,Government,106,5,3,7,3,0,1,17,21.2
+SCH0278,Uttar Pradesh,Lucknow,Government,578,26,20,13,25,4,1,20,22.23
+SCH0279,Gujarat,Surat,Private,1156,43,31,18,42,4,1,88,26.88
+SCH0280,Uttar Pradesh,Prayagraj,Private,1451,58,45,13,48,3,1,75,25.02
+SCH0281,Rajasthan,Ajmer,Government,100,5,3,9,6,3,1,0,20.0
+SCH0282,Tamil Nadu,Madurai,Government,170,5,5,9,5,0,0,9,34.0
+SCH0283,Rajasthan,Udaipur,Government,205,9,7,10,9,1,0,12,22.78
+SCH0284,Kerala,Thiruvananthapuram,Government,139,5,5,9,5,0,0,6,27.8
+SCH0285,Maharashtra,Nagpur,Government,413,17,11,11,14,3,1,26,24.29
+SCH0286,Uttar Pradesh,Prayagraj,Private,616,28,19,17,22,2,0,7,22.0
+SCH0287,Karnataka,Bengaluru Urban,Private,215,7,8,9,9,0,0,3,30.71
+SCH0288,Kerala,Kozhikode,Government,262,8,8,8,11,1,1,0,32.75
+SCH0289,Kerala,Kottayam,Government,499,19,15,13,22,2,0,40,26.26
+SCH0290,Gujarat,Ahmedabad,Government,116,5,4,7,6,0,1,11,23.2
+SCH0291,West Bengal,Kolkata,Government,1398,41,40,11,48,4,1,63,34.1
+SCH0292,Gujarat,Bhavnagar,Government,274,7,9,10,9,2,0,15,39.14
+SCH0293,Rajasthan,Udaipur,Aided,1636,91,44,13,55,3,1,81,17.98
+SCH0294,Rajasthan,Kota,Private,131,6,5,5,7,0,1,9,21.83
+SCH0295,Madhya Pradesh,Indore,Government,1439,57,46,19,54,5,0,74,25.25
+SCH0296,Tamil Nadu,Chennai,Government,1154,48,34,13,33,2,1,97,24.04
+SCH0297,Maharashtra,Mumbai Suburban,Government,1453,55,44,16,52,4,1,63,26.42
+SCH0298,Gujarat,Rajkot,Aided,1617,55,49,20,67,2,1,71,29.4
+SCH0299,Maharashtra,Pune,Private,506,14,18,15,25,3,0,28,36.14
+SCH0300,Madhya Pradesh,Bhopal,Government,728,25,25,10,26,1,1,25,29.12
+SCH0301,West Bengal,Darjeeling,Private,513,16,15,8,18,1,1,0,32.06
+SCH0302,Uttar Pradesh,Agra,Government,155,6,4,8,5,0,1,13,25.83
+SCH0303,Odisha,Khordha,Government,403,19,14,11,24,2,1,19,21.21
+SCH0304,Karnataka,Mysuru,Government,350,15,12,11,15,1,1,31,23.33
+SCH0305,Karnataka,Dharwad,Government,1147,40,32,14,44,5,0,58,28.68
+SCH0306,West Bengal,Darjeeling,Government,518,23,15,13,20,0,1,26,22.52
+SCH0307,Madhya Pradesh,Jabalpur,Government,661,24,21,10,27,5,1,27,27.54
+SCH0308,Rajasthan,Jaipur,Government,461,20,15,8,21,3,1,48,23.05
+SCH0309,Maharashtra,Mumbai Suburban,Government,124,5,4,5,6,2,1,1,24.8
+SCH0310,Karnataka,Belagavi,Government,121,7,4,7,7,1,1,0,17.29
+SCH0311,West Bengal,Nadia,Government,558,23,16,11,22,1,1,40,24.26
+SCH0312,Kerala,Kozhikode,Government,596,17,19,16,22,2,1,2,35.06
+SCH0313,Odisha,Sambalpur,Private,93,5,3,10,5,0,1,17,18.6
+SCH0314,Karnataka,Udupi,Government,191,5,6,10,6,1,1,0,38.2
+SCH0315,West Bengal,Darjeeling,Government,149,8,5,8,6,1,1,0,18.62
+SCH0316,Rajasthan,Jaipur,Government,228,11,7,10,7,1,1,25,20.73
+SCH0317,Kerala,Kottayam,Private,134,5,4,9,6,0,1,0,26.8
+SCH0318,Kerala,Ernakulam,Private,650,19,23,9,26,1,1,0,34.21
+SCH0319,Karnataka,Mysuru,Private,186,10,5,9,7,0,1,0,18.6
+SCH0320,Maharashtra,Pune,Private,2314,110,72,16,79,3,0,56,21.04
+SCH0321,Madhya Pradesh,Gwalior,Government,1445,67,44,13,49,5,1,55,21.57
+SCH0322,Uttar Pradesh,Agra,Private,532,17,16,13,21,2,1,15,31.29
+SCH0323,Odisha,Puri,Private,207,6,5,7,5,1,1,1,34.5
+SCH0324,Uttar Pradesh,Prayagraj,Private,534,29,15,11,16,3,1,10,18.41
+SCH0325,West Bengal,Darjeeling,Government,1358,61,39,17,45,4,1,61,22.26
+SCH0326,Rajasthan,Jaipur,Private,753,35,25,14,29,0,1,28,21.51
+SCH0327,Madhya Pradesh,Bhopal,Government,1768,73,56,16,58,3,1,48,24.22
+SCH0328,Uttar Pradesh,Prayagraj,Government,666,38,19,7,25,3,1,13,17.53
+SCH0329,Madhya Pradesh,Gwalior,Government,502,18,16,13,25,2,1,35,27.89
+SCH0330,Gujarat,Surat,Government,165,5,6,10,3,1,1,33,33.0
+SCH0331,West Bengal,Nadia,Government,672,21,19,7,25,1,1,20,32.0
+SCH0332,Maharashtra,Nashik,Government,263,12,7,6,10,0,1,31,21.92
+SCH0333,Rajasthan,Udaipur,Government,748,26,21,16,26,2,1,24,28.77
+SCH0334,Gujarat,Vadodara,Government,1516,80,50,15,54,5,1,55,18.95
+SCH0335,Gujarat,Bhavnagar,Government,45,5,3,9,6,1,1,36,9.0
+SCH0336,Gujarat,Rajkot,Government,753,29,24,10,23,0,1,7,25.97
+SCH0337,Tamil Nadu,Madurai,Aided,149,7,4,9,4,0,1,7,21.29
+SCH0338,Tamil Nadu,Madurai,Government,579,25,19,12,25,1,1,26,23.16
+SCH0339,West Bengal,Kolkata,Government,74,8,3,11,3,2,1,36,9.25
+SCH0340,Tamil Nadu,Coimbatore,Private,1414,67,42,18,52,4,1,51,21.1
+SCH0341,Gujarat,Vadodara,Private,186,5,7,6,7,0,1,0,37.2
+SCH0342,Gujarat,Vadodara,Government,1542,78,45,15,56,5,1,77,19.77
+SCH0343,Madhya Pradesh,Gwalior,Private,1543,59,43,13,55,4,1,57,26.15
+SCH0344,Tamil Nadu,Madurai,Government,520,15,17,12,20,0,1,24,34.67
+SCH0345,Gujarat,Vadodara,Government,812,31,27,12,32,1,1,0,26.19
+SCH0346,Kerala,Kozhikode,Government,487,15,15,12,19,1,1,22,32.47
+SCH0347,Madhya Pradesh,Jabalpur,Private,1019,55,32,16,46,2,1,56,18.53
+SCH0348,West Bengal,Darjeeling,Government,115,5,4,12,11,2,1,0,23.0
+SCH0349,Tamil Nadu,Tiruchirappalli,Government,892,31,25,13,35,1,1,12,28.77
+SCH0350,Kerala,Kollam,Government,182,7,6,9,6,0,1,8,26.0
+SCH0351,Rajasthan,Jaipur,Private,350,31,11,10,15,2,1,32,11.29
+SCH0352,Rajasthan,Ajmer,Government,181,5,5,6,8,2,1,0,36.2
+SCH0353,Rajasthan,Kota,Private,554,16,17,16,22,1,1,4,34.62
+SCH0354,Maharashtra,Pune,Government,869,35,25,12,28,3,1,5,24.83
+SCH0355,Uttar Pradesh,Kanpur Nagar,Aided,482,23,14,14,12,2,1,10,20.96
+SCH0356,Rajasthan,Jodhpur,Government,612,18,20,12,26,1,1,56,34.0
+SCH0357,Madhya Pradesh,Gwalior,Government,825,41,24,9,27,2,1,33,20.12
+SCH0358,Tamil Nadu,Coimbatore,Private,467,16,16,12,21,0,1,9,29.19
+SCH0359,Madhya Pradesh,Bhopal,Government,718,25,24,11,27,1,1,20,28.72
+SCH0360,Uttar Pradesh,Agra,Private,590,16,18,10,18,1,1,34,36.88
+SCH0361,Gujarat,Rajkot,Government,1294,89,35,19,45,5,1,51,14.54
+SCH0362,Rajasthan,Jaipur,Government,129,6,4,9,3,0,1,12,21.5
+SCH0363,Tamil Nadu,Coimbatore,Government,233,9,8,11,7,1,1,24,25.89
+SCH0364,Odisha,Puri,Government,292,9,10,6,10,1,1,14,32.44
+SCH0365,Madhya Pradesh,Indore,Government,491,19,15,12,24,2,1,13,25.84
+SCH0366,Madhya Pradesh,Gwalior,Aided,810,23,28,10,26,1,1,29,35.22
+SCH0367,Odisha,Ganjam,Government,641,26,18,12,22,0,1,0,24.65
+SCH0368,Kerala,Kottayam,Private,645,23,18,12,20,0,1,3,28.04
+SCH0369,Odisha,Khordha,Government,197,7,7,8,5,0,1,24,28.14
+SCH0370,Odisha,Sambalpur,Government,1467,74,45,16,53,4,1,40,19.82
+SCH0371,West Bengal,Nadia,Aided,671,25,23,13,23,1,1,17,26.84
+SCH0372,West Bengal,Hooghly,Government,129,5,4,5,3,0,1,20,25.8
+SCH0373,Tamil Nadu,Chennai,Government,233,5,9,10,13,0,1,0,46.6
+SCH0374,Rajasthan,Jaipur,Government,204,12,7,7,11,0,1,14,17.0
+SCH0375,West Bengal,Kolkata,Government,132,5,4,9,5,1,1,20,26.4
+SCH0376,Tamil Nadu,Tiruchirappalli,Government,160,5,5,11,8,0,1,37,32.0
+SCH0377,Uttar Pradesh,Varanasi,Government,1463,58,46,13,60,3,0,62,25.22
+SCH0378,Maharashtra,Kolhapur,Government,454,20,15,13,26,0,1,33,22.7
+SCH0379,Maharashtra,Mumbai Suburban,Government,1000,48,34,14,36,1,0,13,20.83
+SCH0380,Kerala,Kollam,Private,575,19,18,14,22,3,1,37,30.26
+SCH0381,Karnataka,Bengaluru Urban,Government,731,26,23,11,27,3,1,46,28.12
+SCH0382,Uttar Pradesh,Lucknow,Government,1122,48,30,14,33,4,1,56,23.38
+SCH0383,Gujarat,Ahmedabad,Private,350,14,11,15,12,1,1,5,25.0
+SCH0384,Odisha,Ganjam,Government,627,17,19,13,21,1,1,24,36.88
+SCH0385,Madhya Pradesh,Bhopal,Government,191,5,7,11,5,3,1,7,38.2
+SCH0386,Madhya Pradesh,Gwalior,Aided,2170,94,71,14,87,3,0,64,23.09
+SCH0387,Kerala,Kozhikode,Government,436,16,14,10,18,2,0,30,27.25
+SCH0388,Kerala,Kottayam,Government,1777,76,48,16,54,3,1,47,23.38
+SCH0389,Tamil Nadu,Coimbatore,Private,84,5,3,10,3,0,1,16,16.8
+SCH0390,Odisha,Cuttack,Government,1868,66,58,18,72,4,1,71,28.3
+SCH0391,Gujarat,Rajkot,Private,682,26,19,16,19,1,1,12,26.23
+SCH0392,Odisha,Khordha,Aided,167,6,5,11,8,1,1,5,27.83
+SCH0393,Rajasthan,Udaipur,Private,471,21,14,14,24,0,1,6,22.43
+SCH0394,Karnataka,Mysuru,Private,708,20,22,12,28,0,1,36,35.4
+SCH0395,Uttar Pradesh,Varanasi,Government,252,6,10,9,10,0,1,38,42.0
+SCH0396,Rajasthan,Jodhpur,Government,450,12,15,10,21,2,1,32,37.5
+SCH0397,Tamil Nadu,Tiruchirappalli,Government,2299,98,68,16,74,4,1,53,23.46
+SCH0398,Uttar Pradesh,Prayagraj,Government,278,9,8,10,9,0,1,15,30.89
+SCH0399,West Bengal,Kolkata,Government,802,27,24,13,23,0,1,12,29.7
+SCH0400,Kerala,Thiruvananthapuram,Government,963,43,27,13,33,2,0,42,22.4
+SCH0401,Uttar Pradesh,Lucknow,Government,238,8,7,9,9,0,1,0,29.75
+SCH0402,Uttar Pradesh,Prayagraj,Government,1626,73,51,13,62,3,1,36,22.27
+SCH0403,Kerala,Kozhikode,Aided,597,24,19,13,29,3,1,52,24.88
+SCH0404,Maharashtra,Mumbai Suburban,Aided,228,7,8,11,8,0,1,29,32.57
+SCH0405,Kerala,Thiruvananthapuram,Government,1797,65,58,18,64,5,1,61,27.65
+SCH0406,Gujarat,Ahmedabad,Government,2011,110,63,16,69,4,1,83,18.28
+SCH0407,West Bengal,Howrah,Private,159,5,4,11,6,0,0,0,31.8
+SCH0408,Uttar Pradesh,Varanasi,Government,1900,88,59,16,75,4,1,47,21.59
+SCH0409,Maharashtra,Mumbai Suburban,Government,168,5,6,9,6,2,1,0,33.6
+SCH0410,Karnataka,Bengaluru Urban,Aided,1806,94,58,16,65,4,1,45,19.21
+SCH0411,Odisha,Cuttack,Government,817,37,23,12,27,1,1,51,22.08
+SCH0412,Gujarat,Bhavnagar,Government,716,42,22,13,28,1,1,23,17.05
+SCH0413,Uttar Pradesh,Prayagraj,Government,232,5,7,8,10,1,1,12,46.4
+SCH0414,Gujarat,Vadodara,Government,1672,62,47,15,60,5,1,77,26.97
+SCH0415,Madhya Pradesh,Jabalpur,Government,115,5,3,8,3,1,1,0,23.0
+SCH0416,Uttar Pradesh,Kanpur Nagar,Government,130,5,5,9,4,0,0,0,26.0
+SCH0417,Tamil Nadu,Coimbatore,Private,206,5,6,8,10,0,1,9,41.2
+SCH0418,Tamil Nadu,Madurai,Government,452,17,15,12,17,0,1,28,26.59
+SCH0419,Karnataka,Belagavi,Government,133,5,5,7,7,0,1,16,26.6
+SCH0420,Uttar Pradesh,Varanasi,Government,1579,65,46,18,55,4,1,50,24.29
+SCH0421,Odisha,Puri,Government,715,30,21,13,26,1,1,49,23.83
+SCH0422,Tamil Nadu,Chennai,Aided,93,5,3,9,7,1,1,3,18.6
+SCH0423,Gujarat,Bhavnagar,Government,253,7,8,11,9,1,1,31,36.14
+SCH0424,Tamil Nadu,Chennai,Government,190,5,7,9,8,1,1,14,38.0
+SCH0425,Maharashtra,Mumbai Suburban,Government,588,28,17,15,21,2,1,24,21.0
+SCH0426,Karnataka,Dharwad,Private,1485,61,42,14,56,5,1,59,24.34
+SCH0427,West Bengal,Howrah,Private,182,7,6,6,8,0,0,14,26.0
+SCH0428,Maharashtra,Nashik,Aided,950,40,29,9,30,4,1,30,23.75
+SCH0429,Madhya Pradesh,Gwalior,Government,203,7,6,12,4,2,1,0,29.0
+SCH0430,Rajasthan,Jodhpur,Private,1465,61,40,14,53,3,0,60,24.02
+SCH0431,Tamil Nadu,Salem,Government,1582,68,48,15,59,4,1,55,23.26
+SCH0432,Odisha,Sambalpur,Private,685,24,21,9,25,2,1,38,28.54
+SCH0433,Gujarat,Surat,Government,555,28,16,15,15,2,1,52,19.82
+SCH0434,Maharashtra,Nagpur,Private,1953,75,60,14,71,2,1,82,26.04
+SCH0435,Kerala,Thiruvananthapuram,Government,115,5,4,7,6,1,0,14,23.0
+SCH0436,Uttar Pradesh,Prayagraj,Private,164,6,6,9,10,1,1,56,27.33
+SCH0437,Rajasthan,Jaipur,Private,68,5,3,9,3,2,1,3,13.6
+SCH0438,Rajasthan,Jaipur,Government,732,43,22,13,29,2,1,38,17.02
+SCH0439,West Bengal,Nadia,Government,494,21,17,14,22,1,1,12,23.52
+SCH0440,Rajasthan,Jaipur,Private,350,13,11,11,14,2,1,50,26.92
+SCH0441,Karnataka,Udupi,Private,1871,79,60,16,75,4,1,85,23.68
+SCH0442,Uttar Pradesh,Agra,Private,80,7,3,10,4,0,1,29,11.43
+SCH0443,West Bengal,Nadia,Private,544,21,18,12,24,1,1,18,25.9
+SCH0444,Madhya Pradesh,Ujjain,Private,252,8,7,8,7,0,1,15,31.5
+SCH0445,Madhya Pradesh,Indore,Government,230,9,8,10,9,0,1,10,25.56
+SCH0446,Kerala,Thiruvananthapuram,Government,706,21,24,10,27,2,1,13,33.62
+SCH0447,West Bengal,Darjeeling,Aided,1774,88,49,14,51,3,1,87,20.16
+SCH0448,Uttar Pradesh,Kanpur Nagar,Private,865,31,28,13,36,0,1,21,27.9
+SCH0449,Madhya Pradesh,Gwalior,Government,253,5,7,10,11,0,1,4,50.6
+SCH0450,Madhya Pradesh,Ujjain,Private,963,35,29,9,34,3,1,15,27.51
+SCH0451,Rajasthan,Kota,Aided,253,10,9,12,10,1,0,21,25.3
+SCH0452,Karnataka,Bengaluru Urban,Government,2047,66,54,16,64,5,1,72,31.02
+SCH0453,West Bengal,Kolkata,Private,592,21,21,10,25,2,1,49,28.19
+SCH0454,Karnataka,Bengaluru Urban,Government,170,5,5,10,7,0,1,34,34.0
+SCH0455,Madhya Pradesh,Ujjain,Government,98,5,4,9,7,1,1,4,19.6
+SCH0456,West Bengal,Hooghly,Government,104,6,4,5,6,0,1,0,17.33
+SCH0457,Tamil Nadu,Coimbatore,Government,1745,85,56,16,82,2,1,62,20.53
+SCH0458,Maharashtra,Pune,Government,752,35,22,15,25,1,1,43,21.49
+SCH0459,Uttar Pradesh,Lucknow,Government,640,18,20,12,25,3,0,19,35.56
+SCH0460,Rajasthan,Jodhpur,Private,381,18,12,7,16,2,1,18,21.17
+SCH0461,Karnataka,Mysuru,Government,350,9,12,9,16,2,0,28,38.89
+SCH0462,Karnataka,Dharwad,Private,176,6,5,7,3,0,1,14,29.33
+SCH0463,Karnataka,Bengaluru Urban,Government,1717,76,46,12,51,5,1,64,22.59
+SCH0464,Uttar Pradesh,Agra,Government,95,5,3,8,5,1,1,13,19.0
+SCH0465,Rajasthan,Jodhpur,Government,686,28,21,10,25,2,1,24,24.5
+SCH0466,West Bengal,Hooghly,Government,752,30,25,12,28,1,1,7,25.07
+SCH0467,Madhya Pradesh,Ujjain,Government,729,32,22,11,26,1,0,32,22.78
+SCH0468,Madhya Pradesh,Indore,Government,1675,63,53,12,58,4,1,66,26.59
+SCH0469,Uttar Pradesh,Lucknow,Government,121,5,4,10,4,0,1,0,24.2
+SCH0470,Uttar Pradesh,Varanasi,Private,928,39,28,11,29,2,0,40,23.79
+SCH0471,Uttar Pradesh,Prayagraj,Government,612,28,21,13,24,2,1,62,21.86
+SCH0472,Madhya Pradesh,Gwalior,Government,573,23,20,15,22,0,1,18,24.91
+SCH0473,Tamil Nadu,Chennai,Government,245,5,10,11,11,1,1,14,49.0
+SCH0474,Maharashtra,Nashik,Government,191,5,5,7,8,0,1,30,38.2
+SCH0475,Madhya Pradesh,Ujjain,Aided,307,9,9,8,10,0,1,0,34.11
+SCH0476,Maharashtra,Nashik,Government,166,5,6,7,4,1,1,0,33.2
+SCH0477,Kerala,Kottayam,Government,894,30,27,16,23,3,1,20,29.8
+SCH0478,Odisha,Ganjam,Government,661,26,21,12,18,2,1,19,25.42
+SCH0479,Rajasthan,Kota,Private,658,24,21,14,25,0,1,33,27.42
+SCH0480,Madhya Pradesh,Jabalpur,Aided,596,19,20,15,22,1,1,22,31.37
+SCH0481,Gujarat,Ahmedabad,Private,859,36,29,14,32,2,1,36,23.86
+SCH0482,Maharashtra,Mumbai Suburban,Private,136,5,4,9,8,1,1,4,27.2
+SCH0483,Tamil Nadu,Chennai,Aided,507,19,15,16,22,1,1,22,26.68
+SCH0484,Kerala,Kottayam,Private,145,6,6,12,7,2,1,1,24.17
+SCH0485,Tamil Nadu,Coimbatore,Government,162,5,4,11,4,0,1,0,32.4
+SCH0486,Tamil Nadu,Coimbatore,Government,701,25,24,13,29,3,1,22,28.04
+SCH0487,Rajasthan,Udaipur,Government,711,18,23,15,27,2,1,33,39.5
+SCH0488,Uttar Pradesh,Prayagraj,Private,104,5,3,9,7,0,1,30,20.8
+SCH0489,Gujarat,Surat,Private,425,26,13,11,18,3,1,21,16.35
+SCH0490,Kerala,Kottayam,Private,976,51,31,13,39,3,0,29,19.14
+SCH0491,Karnataka,Belagavi,Government,951,38,30,9,32,1,1,17,25.03
+SCH0492,Gujarat,Ahmedabad,Aided,599,27,17,12,22,1,1,1,22.19
+SCH0493,Karnataka,Belagavi,Aided,388,10,11,13,15,1,1,43,38.8
+SCH0494,West Bengal,Hooghly,Government,221,11,8,8,8,2,1,20,20.09
+SCH0495,Karnataka,Belagavi,Government,477,14,13,12,19,1,1,51,34.07
+SCH0496,Maharashtra,Nashik,Government,893,30,31,11,34,2,1,35,29.77
+SCH0497,West Bengal,Darjeeling,Government,553,26,17,16,18,3,1,17,21.27
+SCH0498,Odisha,Khordha,Government,382,13,11,14,21,0,1,36,29.38
+SCH0499,Madhya Pradesh,Jabalpur,Government,181,7,5,9,8,0,1,34,25.86
+SCH0500,Madhya Pradesh,Jabalpur,Aided,566,29,17,16,26,1,0,35,19.52
+SCH0501,Odisha,Ganjam,Government,611,20,19,11,20,1,1,22,30.55
+SCH0502,Odisha,Khordha,Government,1521,60,49,16,62,4,1,64,25.35
+SCH0503,Gujarat,Vadodara,Government,2017,89,61,16,78,3,1,65,22.66
+SCH0504,Kerala,Kottayam,Government,665,28,20,11,28,2,1,6,23.75
+SCH0505,Karnataka,Dharwad,Government,1000,29,29,10,34,0,1,24,34.48
+SCH0506,Kerala,Thiruvananthapuram,Government,577,26,19,13,22,1,1,25,22.19
+SCH0507,Tamil Nadu,Madurai,Aided,245,9,8,5,9,0,1,15,27.22
+SCH0508,Madhya Pradesh,Gwalior,Government,1957,59,60,14,70,4,1,71,33.17
+SCH0509,Uttar Pradesh,Lucknow,Government,690,24,21,10,21,2,1,41,28.75
+SCH0510,Gujarat,Vadodara,Government,219,8,6,12,9,0,1,3,27.38
+SCH0511,Madhya Pradesh,Indore,Private,85,5,3,8,3,0,1,18,17.0
+SCH0512,Uttar Pradesh,Prayagraj,Government,1436,61,39,15,34,2,1,63,23.54
+SCH0513,Maharashtra,Nagpur,Government,220,7,9,6,10,1,1,27,31.43
+SCH0514,Karnataka,Dharwad,Government,114,6,3,12,3,0,0,7,19.0
+SCH0515,Madhya Pradesh,Bhopal,Government,75,5,3,10,4,0,1,21,15.0
+SCH0516,Odisha,Khordha,Private,182,8,6,8,9,0,1,6,22.75
+SCH0517,Kerala,Kozhikode,Government,237,10,8,6,10,0,1,17,23.7
+SCH0518,Kerala,Kottayam,Government,436,17,14,12,24,1,1,16,25.65
+SCH0519,West Bengal,Hooghly,Private,272,9,8,8,9,0,1,13,30.22
+SCH0520,Gujarat,Vadodara,Private,982,43,27,16,35,4,1,61,22.84
+SCH0521,Uttar Pradesh,Kanpur Nagar,Government,1242,52,39,12,49,4,1,52,23.88
+SCH0522,Maharashtra,Nagpur,Government,269,6,11,13,15,3,1,7,44.83
+SCH0523,West Bengal,Nadia,Government,152,5,5,10,5,0,1,38,30.4
+SCH0524,Karnataka,Dharwad,Government,1000,41,34,9,44,0,1,21,24.39
+SCH0525,Kerala,Kollam,Government,109,5,4,7,5,1,1,0,21.8
+SCH0526,Karnataka,Belagavi,Government,158,5,5,12,10,0,1,1,31.6
+SCH0527,Odisha,Cuttack,Private,1974,70,56,13,66,2,1,69,28.2
+SCH0528,West Bengal,Hooghly,Private,1980,73,65,10,68,5,0,92,27.12
+SCH0529,Rajasthan,Ajmer,Government,602,25,20,16,26,3,1,10,24.08
+SCH0530,Gujarat,Rajkot,Government,129,5,4,10,5,0,1,8,25.8
+SCH0531,Tamil Nadu,Salem,Government,595,27,20,11,24,0,1,48,22.04
+SCH0532,Madhya Pradesh,Gwalior,Private,568,20,16,12,19,3,1,33,28.4
+SCH0533,Karnataka,Belagavi,Government,575,27,17,10,19,3,0,25,21.3
+SCH0534,Gujarat,Rajkot,Government,557,23,18,11,21,2,1,30,24.22
+SCH0535,Madhya Pradesh,Gwalior,Government,147,5,5,12,7,0,1,6,29.4
+SCH0536,West Bengal,Nadia,Government,150,5,4,10,7,0,1,0,30.0
+SCH0537,Odisha,Khordha,Government,528,19,18,10,21,4,1,29,27.79
+SCH0538,Odisha,Ganjam,Private,45,5,3,11,4,0,0,8,9.0
+SCH0539,Rajasthan,Udaipur,Government,269,10,8,9,8,0,0,4,26.9
+SCH0540,Rajasthan,Ajmer,Aided,1895,72,62,15,70,2,1,65,26.32
+SCH0541,Uttar Pradesh,Kanpur Nagar,Government,2233,93,64,15,67,3,1,56,24.01
+SCH0542,Gujarat,Ahmedabad,Government,374,11,12,12,20,0,1,12,34.0
+SCH0543,Madhya Pradesh,Gwalior,Government,1492,91,48,15,61,4,1,50,16.4
+SCH0544,Maharashtra,Mumbai Suburban,Private,1082,50,32,13,46,4,1,49,21.64
+SCH0545,Odisha,Cuttack,Aided,268,12,8,7,8,1,1,43,22.33
+SCH0546,Karnataka,Mysuru,Government,736,19,23,11,25,1,1,46,38.74
+SCH0547,Kerala,Kollam,Government,797,29,24,10,24,2,1,37,27.48
+SCH0548,Gujarat,Ahmedabad,Aided,273,9,9,9,9,0,1,0,30.33
+SCH0549,West Bengal,Howrah,Government,823,24,27,15,36,3,1,36,34.29
+SCH0550,Gujarat,Rajkot,Government,562,14,17,15,21,1,1,47,40.14
+SCH0551,Karnataka,Dharwad,Government,408,13,13,10,18,1,1,0,31.38
+SCH0552,Odisha,Puri,Private,307,13,8,7,8,0,1,0,23.62
+SCH0553,Kerala,Kozhikode,Government,101,5,3,10,4,2,1,0,20.2
+SCH0554,Tamil Nadu,Chennai,Government,950,47,29,16,37,2,0,60,20.21
+SCH0555,Madhya Pradesh,Indore,Government,140,5,4,12,6,1,1,9,28.0
+SCH0556,Gujarat,Bhavnagar,Private,140,7,6,9,10,0,0,5,20.0
+SCH0557,Maharashtra,Nashik,Government,153,5,5,11,8,0,1,25,30.6
+SCH0558,Karnataka,Mysuru,Government,547,20,16,14,23,2,1,33,27.35
+SCH0559,Kerala,Kollam,Government,350,9,10,14,19,1,1,21,38.89
+SCH0560,Gujarat,Rajkot,Private,779,49,22,14,28,1,1,43,15.9
+SCH0561,Maharashtra,Nashik,Government,158,8,4,9,8,1,1,7,19.75
+SCH0562,West Bengal,Darjeeling,Government,234,9,6,8,4,1,1,0,26.0
+SCH0563,Karnataka,Dharwad,Government,1582,59,44,15,56,3,1,70,26.81
+SCH0564,Maharashtra,Nashik,Government,453,11,15,12,20,2,1,20,41.18
+SCH0565,Kerala,Thiruvananthapuram,Aided,648,36,19,11,23,1,0,17,18.0
+SCH0566,West Bengal,Kolkata,Government,587,22,19,11,31,5,1,4,26.68
+SCH0567,Uttar Pradesh,Kanpur Nagar,Government,774,31,22,14,31,2,1,34,24.97
+SCH0568,Rajasthan,Jodhpur,Private,297,9,10,6,12,0,1,2,33.0
+SCH0569,Gujarat,Surat,Private,230,10,7,9,6,0,0,1,23.0
+SCH0570,Rajasthan,Ajmer,Government,695,26,21,13,26,1,1,28,26.73
+SCH0571,Maharashtra,Kolhapur,Government,226,7,6,11,6,0,1,27,32.29
+SCH0572,Karnataka,Belagavi,Government,1095,43,33,15,46,3,0,84,25.47
+SCH0573,Karnataka,Dharwad,Government,626,24,21,10,26,0,1,19,26.08
+SCH0574,Gujarat,Surat,Government,730,26,24,12,28,0,1,11,28.08
+SCH0575,Rajasthan,Jodhpur,Private,1821,101,52,18,63,4,1,61,18.03
+SCH0576,Tamil Nadu,Chennai,Government,691,43,20,13,26,2,1,10,16.07
+SCH0577,Rajasthan,Kota,Private,1414,59,42,18,60,2,1,83,23.97
+SCH0578,Odisha,Sambalpur,Government,714,28,22,13,28,2,1,3,25.5
+SCH0579,Karnataka,Belagavi,Private,1243,42,35,13,41,3,1,66,29.6
+SCH0580,Uttar Pradesh,Kanpur Nagar,Government,154,7,6,7,10,0,1,0,22.0
+SCH0581,Gujarat,Surat,Government,578,22,16,11,19,1,1,24,26.27
+SCH0582,Gujarat,Ahmedabad,Government,350,18,10,12,12,2,0,25,19.44
+SCH0583,Rajasthan,Kota,Government,119,7,3,11,3,2,1,18,17.0
+SCH0584,Maharashtra,Pune,Private,814,34,23,12,26,3,1,10,23.94
+SCH0585,Madhya Pradesh,Bhopal,Government,1019,41,28,11,38,5,1,73,24.85
+SCH0586,Karnataka,Mysuru,Aided,602,35,21,12,26,1,1,35,17.2
+SCH0587,Madhya Pradesh,Indore,Government,149,5,6,10,8,2,1,18,29.8
+SCH0588,Kerala,Kollam,Government,123,5,3,6,3,0,1,0,24.6
+SCH0589,Uttar Pradesh,Agra,Aided,250,6,7,9,9,0,1,0,41.67
+SCH0590,West Bengal,Kolkata,Government,180,5,5,9,5,2,1,0,36.0
+SCH0591,Kerala,Kollam,Aided,950,48,27,13,38,3,1,39,19.79
+SCH0592,Tamil Nadu,Tiruchirappalli,Government,492,19,14,13,19,2,1,3,25.89
+SCH0593,Kerala,Ernakulam,Government,169,7,6,11,10,0,1,24,24.14
+SCH0594,Uttar Pradesh,Lucknow,Government,819,34,23,12,29,3,1,44,24.09
+SCH0595,Maharashtra,Pune,Government,45,5,3,10,3,2,1,0,9.0
+SCH0596,Kerala,Kollam,Government,169,5,5,8,7,1,1,20,33.8
+SCH0597,Madhya Pradesh,Jabalpur,Government,512,19,14,12,20,0,1,39,26.95
+SCH0598,Gujarat,Rajkot,Government,350,16,10,12,16,1,1,22,21.88
+SCH0599,Rajasthan,Ajmer,Aided,1070,36,29,11,40,4,1,57,29.72
+SCH0600,Kerala,Thiruvananthapuram,Government,659,27,22,10,24,2,1,30,24.41
+SCH0601,Kerala,Kottayam,Government,597,16,19,7,25,2,1,32,37.31
+SCH0602,West Bengal,Darjeeling,Government,541,18,17,11,27,0,1,31,30.06
+SCH0603,Rajasthan,Jodhpur,Private,1563,87,49,14,54,3,1,89,17.97
+SCH0604,Kerala,Kozhikode,Government,748,26,26,13,33,2,1,22,28.77
+SCH0605,Uttar Pradesh,Varanasi,Government,1586,64,43,14,48,2,1,69,24.78
+SCH0606,Rajasthan,Jaipur,Government,350,12,11,12,17,1,0,45,29.17
+SCH0607,Tamil Nadu,Coimbatore,Aided,1778,68,58,16,73,3,1,95,26.15
+SCH0608,Uttar Pradesh,Kanpur Nagar,Private,187,7,6,7,5,0,1,12,26.71
+SCH0609,Madhya Pradesh,Indore,Private,618,23,20,16,24,1,1,19,26.87
+SCH0610,Madhya Pradesh,Bhopal,Private,357,15,12,15,19,2,0,23,23.8
+SCH0611,Odisha,Puri,Private,620,21,20,14,24,0,1,18,29.52
+SCH0612,Madhya Pradesh,Indore,Government,925,30,27,14,32,0,1,32,30.83
+SCH0613,Gujarat,Rajkot,Government,1931,83,54,15,48,3,0,57,23.27
+SCH0614,Uttar Pradesh,Lucknow,Government,1461,60,46,13,60,3,1,63,24.35
+SCH0615,West Bengal,Hooghly,Government,319,9,9,9,13,0,0,0,35.44
+SCH0616,Odisha,Puri,Private,571,18,19,9,18,2,1,29,31.72
+SCH0617,Rajasthan,Ajmer,Government,540,27,16,11,23,3,1,35,20.0
+SCH0618,Kerala,Kottayam,Aided,45,5,3,7,4,0,1,0,9.0
+SCH0619,West Bengal,Hooghly,Aided,134,7,5,9,9,0,1,11,19.14
+SCH0620,Uttar Pradesh,Varanasi,Private,159,5,4,7,8,0,1,0,31.8
+SCH0621,Madhya Pradesh,Gwalior,Private,453,15,14,11,18,2,0,32,30.2
+SCH0622,Karnataka,Dharwad,Government,765,24,26,12,27,0,1,30,31.88
+SCH0623,Kerala,Kottayam,Government,1528,71,44,14,54,4,1,64,21.52
+SCH0624,Gujarat,Ahmedabad,Aided,661,24,20,14,23,1,1,63,27.54
+SCH0625,Maharashtra,Pune,Private,1571,65,52,13,61,6,1,74,24.17
+SCH0626,Uttar Pradesh,Kanpur Nagar,Private,542,30,16,10,19,1,1,34,18.07
+SCH0627,Odisha,Ganjam,Government,472,13,15,9,19,2,1,31,36.31
+SCH0628,Madhya Pradesh,Indore,Government,210,7,7,5,10,1,1,15,30.0
+SCH0629,Tamil Nadu,Coimbatore,Government,789,28,23,13,24,1,1,19,28.18
+SCH0630,Gujarat,Surat,Government,1548,59,41,18,45,4,1,65,26.24
+SCH0631,West Bengal,Nadia,Government,1186,45,32,12,44,4,1,84,26.36
+SCH0632,Uttar Pradesh,Agra,Aided,1314,65,40,17,50,2,1,50,20.22
+SCH0633,Maharashtra,Mumbai Suburban,Private,176,6,6,11,9,0,1,0,29.33
+SCH0634,Odisha,Khordha,Aided,153,5,5,11,8,1,1,0,30.6
+SCH0635,Uttar Pradesh,Prayagraj,Government,90,5,3,8,4,0,1,0,18.0
+SCH0636,Tamil Nadu,Coimbatore,Government,165,6,6,8,9,0,1,17,27.5
+SCH0637,West Bengal,Kolkata,Private,350,8,12,10,16,1,1,27,43.75
+SCH0638,Madhya Pradesh,Ujjain,Private,616,18,19,9,18,2,1,0,34.22
+SCH0639,Odisha,Khordha,Aided,350,10,10,11,18,2,1,37,35.0
+SCH0640,Odisha,Cuttack,Government,1710,73,47,15,49,3,1,44,23.42
+SCH0641,Uttar Pradesh,Varanasi,Government,673,28,23,13,27,1,1,2,24.04
+SCH0642,Karnataka,Udupi,Government,1949,100,59,18,72,4,1,61,19.49
+SCH0643,Rajasthan,Ajmer,Government,171,5,5,7,8,1,1,0,34.2
+SCH0644,West Bengal,Darjeeling,Government,175,6,6,8,7,3,1,0,29.17
+SCH0645,Tamil Nadu,Salem,Private,395,16,11,14,17,1,0,0,24.69
+SCH0646,Odisha,Cuttack,Government,1384,85,42,13,43,3,1,74,16.28
+SCH0647,Odisha,Sambalpur,Government,129,5,4,7,7,1,1,22,25.8
+SCH0648,Karnataka,Mysuru,Government,709,27,20,9,25,1,1,29,26.26
+SCH0649,Kerala,Thiruvananthapuram,Aided,641,22,21,6,24,1,1,40,29.14
+SCH0650,Gujarat,Ahmedabad,Government,193,5,6,12,8,2,1,2,38.6
+SCH0651,Uttar Pradesh,Kanpur Nagar,Private,457,12,16,13,21,0,1,46,38.08
+SCH0652,Uttar Pradesh,Agra,Government,966,40,27,18,32,4,1,54,24.15
+SCH0653,West Bengal,Howrah,Government,416,17,13,13,21,1,1,85,24.47
+SCH0654,Tamil Nadu,Madurai,Government,95,5,3,13,3,2,1,0,19.0
+SCH0655,Rajasthan,Udaipur,Private,950,35,27,15,30,4,0,53,27.14
+SCH0656,Madhya Pradesh,Indore,Government,215,9,7,11,10,0,1,28,23.89
+SCH0657,West Bengal,Howrah,Private,1912,72,57,12,62,3,1,75,26.56
+SCH0658,Karnataka,Udupi,Government,209,6,8,11,12,0,1,7,34.83
+SCH0659,West Bengal,Kolkata,Government,727,27,21,13,23,0,1,0,26.93
+SCH0660,Gujarat,Bhavnagar,Government,586,26,18,16,19,3,1,8,22.54
+SCH0661,Maharashtra,Pune,Government,135,6,4,7,5,0,1,5,22.5
+SCH0662,Uttar Pradesh,Varanasi,Government,950,36,30,19,39,2,1,68,26.39
+SCH0663,Tamil Nadu,Madurai,Government,216,8,7,6,7,0,1,14,27.0
+SCH0664,Uttar Pradesh,Varanasi,Private,126,5,5,7,4,2,1,6,25.2
+SCH0665,Uttar Pradesh,Kanpur Nagar,Government,96,5,3,10,3,0,1,0,19.2
+SCH0666,Tamil Nadu,Coimbatore,Government,548,19,15,13,17,1,1,26,28.84
+SCH0667,Uttar Pradesh,Agra,Government,1300,52,41,13,51,4,1,67,25.0
+SCH0668,Tamil Nadu,Madurai,Private,1052,37,34,14,40,5,1,67,28.43
+SCH0669,West Bengal,Darjeeling,Aided,192,6,5,9,7,1,1,28,32.0
+SCH0670,Maharashtra,Nagpur,Private,733,26,24,14,37,1,1,20,28.19
+SCH0671,Odisha,Khordha,Private,206,8,6,11,7,0,1,0,25.75
+SCH0672,Odisha,Puri,Private,886,34,30,12,36,1,1,18,26.06
+SCH0673,Odisha,Puri,Private,1648,65,52,16,64,3,1,46,25.35
+SCH0674,Rajasthan,Jodhpur,Government,482,15,15,16,21,2,1,23,32.13
+SCH0675,Kerala,Kozhikode,Private,523,16,16,14,21,0,1,59,32.69
+SCH0676,Karnataka,Udupi,Government,605,21,22,14,22,1,1,16,28.81
+SCH0677,Madhya Pradesh,Jabalpur,Private,950,40,27,14,30,4,1,54,23.75
+SCH0678,Madhya Pradesh,Ujjain,Government,350,8,12,11,17,2,1,29,43.75
+SCH0679,Maharashtra,Nashik,Aided,145,5,4,9,6,2,1,22,29.0
+SCH0680,Tamil Nadu,Coimbatore,Government,181,7,6,7,7,0,1,11,25.86
+SCH0681,Maharashtra,Kolhapur,Government,266,7,8,10,9,0,0,15,38.0
+SCH0682,Maharashtra,Kolhapur,Private,148,5,4,9,6,1,1,0,29.6
+SCH0683,Uttar Pradesh,Lucknow,Private,231,8,8,8,8,1,1,23,28.88
+SCH0684,Odisha,Khordha,Government,556,21,16,12,20,2,0,43,26.48
+SCH0685,Uttar Pradesh,Kanpur Nagar,Government,500,21,17,10,24,2,1,10,23.81
+SCH0686,Tamil Nadu,Coimbatore,Government,197,7,5,6,9,3,1,0,28.14
+SCH0687,Kerala,Kottayam,Government,572,18,16,13,19,1,1,5,31.78
+SCH0688,Karnataka,Udupi,Government,1662,85,53,16,63,3,1,88,19.55
+SCH0689,Tamil Nadu,Chennai,Government,654,17,22,12,27,2,1,26,38.47
+SCH0690,Rajasthan,Jodhpur,Government,560,28,18,13,23,2,1,21,20.0
+SCH0691,Gujarat,Surat,Government,276,6,10,6,12,0,1,4,46.0
+SCH0692,Kerala,Ernakulam,Government,1338,72,44,17,52,2,1,65,18.58
+SCH0693,Uttar Pradesh,Varanasi,Aided,144,9,5,8,6,0,1,5,16.0
+SCH0694,Kerala,Kollam,Government,227,6,7,10,9,3,1,13,37.83
+SCH0695,Uttar Pradesh,Agra,Private,1358,50,38,19,44,4,1,68,27.16
+SCH0696,Gujarat,Ahmedabad,Government,780,25,27,12,30,1,1,42,31.2
+SCH0697,Tamil Nadu,Madurai,Government,414,16,12,11,17,0,1,0,25.88
+SCH0698,Kerala,Kollam,Government,691,42,23,8,32,2,1,7,16.45
+SCH0699,Odisha,Ganjam,Private,721,29,22,10,20,2,1,23,24.86
+SCH0700,Madhya Pradesh,Indore,Government,215,8,7,8,9,0,1,0,26.88
+SCH0701,Maharashtra,Nagpur,Aided,157,5,4,8,4,1,1,6,31.4
+SCH0702,West Bengal,Hooghly,Private,181,6,5,7,6,1,0,0,30.17
+SCH0703,Odisha,Cuttack,Government,191,5,7,9,11,1,1,12,38.2
+SCH0704,Kerala,Kottayam,Private,2056,99,54,15,66,4,1,61,20.77
+SCH0705,Karnataka,Udupi,Aided,181,5,7,6,9,1,1,2,36.2
+SCH0706,Odisha,Puri,Government,722,24,21,13,25,1,1,36,30.08
+SCH0707,Uttar Pradesh,Lucknow,Government,876,21,26,11,30,0,1,27,41.71
+SCH0708,Karnataka,Dharwad,Private,615,15,20,11,21,2,1,21,41.0
+SCH0709,Gujarat,Bhavnagar,Private,757,27,25,9,29,0,1,25,28.04
+SCH0710,Karnataka,Dharwad,Government,538,20,17,9,20,1,1,26,26.9
+SCH0711,Kerala,Kollam,Government,1245,40,33,20,43,4,1,79,31.12
+SCH0712,Uttar Pradesh,Prayagraj,Aided,507,18,16,13,22,1,1,12,28.17
+SCH0713,Madhya Pradesh,Bhopal,Private,1255,47,39,12,49,3,1,86,26.7
+SCH0714,West Bengal,Hooghly,Government,950,59,29,17,48,3,1,83,16.1
+SCH0715,West Bengal,Nadia,Government,861,34,25,13,27,2,1,17,25.32
+SCH0716,Karnataka,Dharwad,Government,242,5,7,10,5,0,0,10,48.4
+SCH0717,Tamil Nadu,Tiruchirappalli,Government,646,51,21,15,27,0,1,2,12.67
+SCH0718,Tamil Nadu,Coimbatore,Government,202,9,6,10,10,0,1,20,22.44
+SCH0719,Kerala,Kozhikode,Government,812,24,24,13,28,1,1,31,33.83
+SCH0720,Gujarat,Vadodara,Private,1292,54,35,16,44,4,1,63,23.93
+SCH0721,Maharashtra,Nagpur,Government,654,18,21,12,28,0,1,8,36.33
+SCH0722,Kerala,Thiruvananthapuram,Government,549,26,18,11,17,2,1,42,21.12
+SCH0723,Rajasthan,Kota,Aided,205,5,6,8,8,2,1,0,41.0
+SCH0724,Maharashtra,Nagpur,Private,1036,33,32,19,40,3,1,78,31.39
+SCH0725,West Bengal,Kolkata,Government,274,7,10,7,13,1,1,1,39.14
+SCH0726,West Bengal,Darjeeling,Private,175,11,6,9,8,0,1,0,15.91
+SCH0727,Madhya Pradesh,Gwalior,Government,99,5,3,12,7,0,1,40,19.8
+SCH0728,West Bengal,Darjeeling,Government,216,5,8,8,11,0,1,0,43.2
+SCH0729,Madhya Pradesh,Indore,Private,800,30,24,10,30,2,1,38,26.67
+SCH0730,Kerala,Thiruvananthapuram,Private,737,26,24,14,28,0,1,20,28.35
+SCH0731,Madhya Pradesh,Jabalpur,Government,73,5,3,9,3,2,1,0,14.6
+SCH0732,West Bengal,Darjeeling,Government,156,7,5,6,9,1,1,0,22.29
+SCH0733,Gujarat,Ahmedabad,Government,247,9,7,9,8,0,1,23,27.44
+SCH0734,Rajasthan,Kota,Government,681,32,22,10,23,0,1,26,21.28
+SCH0735,Gujarat,Rajkot,Government,141,5,5,10,3,2,1,0,28.2
+SCH0736,Gujarat,Ahmedabad,Aided,745,56,26,14,35,0,1,47,13.3
+SCH0737,West Bengal,Howrah,Government,107,9,3,10,7,0,1,0,11.89
+SCH0738,Kerala,Kollam,Private,155,5,4,9,5,0,1,14,31.0
+SCH0739,West Bengal,Nadia,Government,694,20,21,13,27,2,0,26,34.7
+SCH0740,Madhya Pradesh,Indore,Government,820,29,25,10,25,1,1,43,28.28
+SCH0741,Tamil Nadu,Coimbatore,Government,186,7,6,8,14,0,1,0,26.57
+SCH0742,Karnataka,Belagavi,Private,149,5,6,11,7,2,0,24,29.8
+SCH0743,Tamil Nadu,Chennai,Government,1766,62,47,10,52,4,1,56,28.48
+SCH0744,Madhya Pradesh,Gwalior,Government,146,5,4,8,4,2,1,13,29.2
+SCH0745,Rajasthan,Jaipur,Private,350,20,11,8,16,1,1,21,17.5
+SCH0746,West Bengal,Howrah,Government,611,18,21,10,23,2,0,4,33.94
+SCH0747,Tamil Nadu,Coimbatore,Government,215,8,7,7,8,0,1,14,26.88
+SCH0748,Madhya Pradesh,Indore,Government,687,38,22,13,28,1,0,34,18.08
+SCH0749,Maharashtra,Mumbai Suburban,Private,481,19,14,11,15,1,1,0,25.32
+SCH0750,Karnataka,Dharwad,Government,950,38,27,13,39,4,1,66,25.0
+SCH0751,Kerala,Kollam,Private,207,9,6,8,8,2,1,25,23.0
+SCH0752,Rajasthan,Ajmer,Government,287,11,9,11,10,0,1,11,26.09
+SCH0753,Maharashtra,Kolhapur,Government,195,8,5,6,6,0,1,32,24.38
+SCH0754,Kerala,Ernakulam,Private,716,29,22,8,29,0,1,0,24.69
+SCH0755,Odisha,Sambalpur,Government,898,22,25,13,26,1,1,52,40.82
+SCH0756,Kerala,Thiruvananthapuram,Government,118,5,4,8,5,1,1,0,23.6
+SCH0757,West Bengal,Howrah,Government,263,8,8,9,9,0,1,0,32.88
+SCH0758,Rajasthan,Kota,Government,1047,53,30,11,40,4,1,77,19.75
+SCH0759,Gujarat,Rajkot,Government,191,9,7,9,5,0,1,6,21.22
+SCH0760,Maharashtra,Kolhapur,Government,827,32,25,9,32,1,0,1,25.84
+SCH0761,Karnataka,Udupi,Government,627,15,19,8,31,1,1,24,41.8
+SCH0762,Madhya Pradesh,Jabalpur,Government,125,5,4,7,8,0,1,0,25.0
+SCH0763,Uttar Pradesh,Lucknow,Aided,64,5,3,11,4,0,1,11,12.8
+SCH0764,Gujarat,Rajkot,Government,107,5,4,10,8,0,1,14,21.4
+SCH0765,Madhya Pradesh,Bhopal,Aided,1464,63,43,15,50,3,1,61,23.24
+SCH0766,Maharashtra,Nagpur,Private,145,7,4,5,3,0,0,41,20.71
+SCH0767,Odisha,Ganjam,Government,203,9,7,9,7,0,1,0,22.56
+SCH0768,Tamil Nadu,Salem,Government,153,5,5,8,7,0,1,0,30.6
+SCH0769,Gujarat,Rajkot,Private,140,5,4,7,5,0,1,0,28.0
+SCH0770,West Bengal,Kolkata,Government,559,19,19,9,22,2,1,15,29.42
+SCH0771,Maharashtra,Kolhapur,Government,167,6,6,8,9,0,1,12,27.83
+SCH0772,Odisha,Cuttack,Private,666,25,23,11,30,2,1,20,26.64
+SCH0773,Rajasthan,Ajmer,Government,782,33,24,11,36,1,1,38,23.7
+SCH0774,Kerala,Thiruvananthapuram,Private,984,65,27,12,30,2,1,56,15.14
+SCH0775,West Bengal,Nadia,Government,114,5,5,7,8,0,1,19,22.8
+SCH0776,Odisha,Ganjam,Government,1184,50,37,13,40,3,1,47,23.68
+SCH0777,Gujarat,Bhavnagar,Government,486,22,16,12,23,0,0,6,22.09
+SCH0778,Karnataka,Udupi,Aided,195,6,7,10,7,0,0,27,32.5
+SCH0779,Karnataka,Dharwad,Government,548,19,19,13,28,2,1,3,28.84
+SCH0780,Gujarat,Ahmedabad,Government,957,46,27,15,40,5,1,61,20.8
+SCH0781,Maharashtra,Mumbai Suburban,Government,347,10,12,9,12,0,1,0,34.7
+SCH0782,Rajasthan,Ajmer,Government,1040,40,35,12,35,4,0,93,26.0
+SCH0783,Odisha,Ganjam,Government,350,15,10,14,20,1,1,25,23.33
+SCH0784,West Bengal,Nadia,Government,440,7,16,13,19,2,1,19,62.86
+SCH0785,Madhya Pradesh,Jabalpur,Private,1612,63,43,14,57,4,1,68,25.59
+SCH0786,Odisha,Sambalpur,Government,48,5,3,14,4,1,1,0,9.6
+SCH0787,Madhya Pradesh,Indore,Private,1254,45,38,14,39,4,0,106,27.87
+SCH0788,Karnataka,Dharwad,Private,218,5,7,9,8,0,1,8,43.6
+SCH0789,Maharashtra,Mumbai Suburban,Aided,350,19,12,8,16,1,1,39,18.42
+SCH0790,Tamil Nadu,Madurai,Government,882,33,26,14,27,0,1,27,26.73
+SCH0791,West Bengal,Howrah,Government,183,6,5,9,5,0,1,32,30.5
+SCH0792,Madhya Pradesh,Ujjain,Government,350,13,12,14,19,2,1,40,26.92
+SCH0793,Kerala,Kozhikode,Government,93,5,3,13,8,1,1,0,18.6
+SCH0794,Rajasthan,Udaipur,Private,193,8,8,5,9,1,0,36,24.12
+SCH0795,Madhya Pradesh,Jabalpur,Government,190,5,7,8,8,0,1,8,38.0
+SCH0796,Maharashtra,Nashik,Government,143,5,4,6,7,1,1,16,28.6
+SCH0797,Karnataka,Mysuru,Government,227,6,6,11,3,0,1,7,37.83
+SCH0798,Kerala,Thiruvananthapuram,Private,146,7,4,10,4,2,1,0,20.86
+SCH0799,Odisha,Puri,Government,835,32,24,15,31,1,1,25,26.09
+SCH0800,Madhya Pradesh,Indore,Government,350,15,12,13,16,3,0,61,23.33
+SCH0801,Tamil Nadu,Tiruchirappalli,Private,545,16,17,15,27,2,1,33,34.06
+SCH0802,Tamil Nadu,Coimbatore,Government,166,8,5,7,3,0,0,21,20.75
+SCH0803,Uttar Pradesh,Kanpur Nagar,Private,1610,65,42,17,47,3,1,63,24.77
+SCH0804,Kerala,Kottayam,Government,1000,44,34,12,35,0,1,18,22.73
+SCH0805,Tamil Nadu,Madurai,Private,297,5,10,11,12,0,0,8,59.4
+SCH0806,Gujarat,Surat,Government,278,11,8,7,7,2,1,16,25.27
+SCH0807,Gujarat,Surat,Government,586,17,19,7,20,2,1,42,34.47
+SCH0808,Rajasthan,Jodhpur,Government,213,8,7,6,6,0,1,5,26.62
+SCH0809,Kerala,Thiruvananthapuram,Aided,940,36,27,13,32,2,1,0,26.11
+SCH0810,Rajasthan,Jodhpur,Government,1380,52,37,15,49,2,0,37,26.54
+SCH0811,Maharashtra,Kolhapur,Private,155,5,6,6,4,0,1,16,31.0
+SCH0812,Madhya Pradesh,Ujjain,Private,179,5,5,7,6,1,1,54,35.8
+SCH0813,Gujarat,Bhavnagar,Private,951,43,31,15,45,3,1,55,22.12
+SCH0814,Uttar Pradesh,Varanasi,Aided,715,29,24,11,23,2,1,22,24.66
+SCH0815,Madhya Pradesh,Indore,Government,202,8,6,8,9,0,1,0,25.25
+SCH0816,Tamil Nadu,Chennai,Private,950,41,31,11,44,5,1,47,23.17
+SCH0817,Madhya Pradesh,Ujjain,Private,1687,78,45,11,46,3,1,96,21.63
+SCH0818,Gujarat,Ahmedabad,Government,582,23,18,10,21,1,1,29,25.3
+SCH0819,Karnataka,Mysuru,Government,723,23,23,11,27,0,1,41,31.43
+SCH0820,Maharashtra,Nashik,Private,350,13,14,9,18,0,1,12,26.92
+SCH0821,Kerala,Thiruvananthapuram,Government,116,9,3,13,3,2,1,17,12.89
+SCH0822,Gujarat,Surat,Private,559,14,18,13,23,1,1,29,39.93
+SCH0823,Tamil Nadu,Chennai,Government,231,6,8,6,11,0,1,7,38.5
+SCH0824,Rajasthan,Ajmer,Government,818,35,29,14,37,0,1,35,23.37
+SCH0825,Uttar Pradesh,Lucknow,Government,950,43,27,15,40,3,1,61,22.09
+SCH0826,Karnataka,Belagavi,Government,261,7,8,7,5,0,1,8,37.29
+SCH0827,Kerala,Kottayam,Private,827,39,30,14,37,2,1,46,21.21
+SCH0828,West Bengal,Hooghly,Private,145,5,6,9,11,2,1,11,29.0
+SCH0829,Uttar Pradesh,Kanpur Nagar,Private,1764,103,53,18,67,2,1,77,17.13
+SCH0830,Madhya Pradesh,Bhopal,Government,206,6,6,11,6,0,1,4,34.33
+SCH0831,Karnataka,Belagavi,Government,527,13,15,11,19,2,1,34,40.54
+SCH0832,Rajasthan,Kota,Government,492,24,15,12,17,3,1,33,20.5
+SCH0833,Odisha,Ganjam,Private,350,12,10,12,12,1,1,25,29.17
+SCH0834,Tamil Nadu,Coimbatore,Private,478,24,17,10,23,0,1,4,19.92
+SCH0835,Gujarat,Rajkot,Government,491,24,15,12,27,2,1,8,20.46
+SCH0836,Rajasthan,Ajmer,Private,879,30,27,16,27,2,1,0,29.3
+SCH0837,Maharashtra,Mumbai Suburban,Government,350,16,11,11,15,2,0,41,21.88
+SCH0838,Uttar Pradesh,Prayagraj,Government,1252,61,35,16,43,2,1,45,20.52
+SCH0839,Gujarat,Vadodara,Government,1000,45,33,11,35,2,1,59,22.22
+SCH0840,Maharashtra,Nashik,Private,557,22,17,11,17,2,1,46,25.32
+SCH0841,Uttar Pradesh,Kanpur Nagar,Government,231,8,7,9,9,1,0,22,28.88
+SCH0842,Gujarat,Rajkot,Government,544,25,18,12,22,2,1,40,21.76
+SCH0843,Rajasthan,Udaipur,Government,656,20,23,14,28,1,1,24,32.8
+SCH0844,Madhya Pradesh,Gwalior,Government,456,18,15,12,20,1,1,13,25.33
+SCH0845,Madhya Pradesh,Gwalior,Government,166,5,6,9,5,2,1,0,33.2
+SCH0846,Uttar Pradesh,Agra,Government,1029,51,29,14,37,4,1,73,20.18
+SCH0847,Madhya Pradesh,Gwalior,Government,610,26,19,7,27,3,0,21,23.46
+SCH0848,Rajasthan,Udaipur,Private,592,29,19,13,23,1,1,0,20.41
+SCH0849,West Bengal,Hooghly,Government,308,9,9,10,10,1,1,0,34.22
+SCH0850,Kerala,Ernakulam,Private,1477,55,44,15,55,5,0,76,26.85
+SCH0851,Odisha,Sambalpur,Government,172,6,7,9,4,0,1,0,28.67
+SCH0852,Odisha,Ganjam,Private,245,11,7,11,8,0,1,17,22.27
+SCH0853,Rajasthan,Kota,Government,1600,72,44,16,56,3,1,57,22.22
+SCH0854,Uttar Pradesh,Lucknow,Private,1930,66,52,14,47,3,1,59,29.24
+SCH0855,Tamil Nadu,Chennai,Government,263,9,9,11,10,1,1,11,29.22
+SCH0856,Gujarat,Bhavnagar,Aided,427,21,12,9,18,1,1,37,20.33
+SCH0857,Uttar Pradesh,Prayagraj,Government,379,12,11,14,14,0,1,44,31.58
+SCH0858,Madhya Pradesh,Gwalior,Private,1590,72,48,17,62,2,1,60,22.08
+SCH0859,Uttar Pradesh,Varanasi,Government,234,7,7,8,10,0,1,7,33.43
+SCH0860,West Bengal,Darjeeling,Government,538,14,15,10,19,1,1,27,38.43
+SCH0861,Maharashtra,Kolhapur,Government,350,10,12,12,16,3,0,0,35.0
+SCH0862,Madhya Pradesh,Ujjain,Aided,644,31,22,15,27,1,1,14,20.77
+SCH0863,Gujarat,Bhavnagar,Private,991,35,28,9,30,0,0,54,28.31
+SCH0864,Uttar Pradesh,Agra,Government,505,28,15,14,20,1,1,14,18.04
+SCH0865,West Bengal,Hooghly,Private,209,5,6,7,9,0,1,2,41.8
+SCH0866,Maharashtra,Nagpur,Private,1499,56,47,16,54,5,1,40,26.77
+SCH0867,Rajasthan,Ajmer,Private,950,29,29,17,35,2,1,54,32.76
+SCH0868,Kerala,Ernakulam,Aided,822,24,24,8,32,1,1,16,34.25
+SCH0869,Madhya Pradesh,Jabalpur,Government,220,5,7,11,6,0,0,19,44.0
+SCH0870,Kerala,Ernakulam,Private,126,5,4,11,5,1,1,28,25.2
+SCH0871,Rajasthan,Kota,Private,796,29,25,13,30,1,1,29,27.45
+SCH0872,Maharashtra,Nagpur,Government,200,10,7,8,6,1,1,13,20.0
+SCH0873,Gujarat,Vadodara,Government,1111,40,35,14,50,4,1,48,27.78
+SCH0874,Madhya Pradesh,Jabalpur,Government,147,5,5,10,11,0,1,4,29.4
+SCH0875,Madhya Pradesh,Jabalpur,Government,651,19,19,13,26,2,1,1,34.26
+SCH0876,Madhya Pradesh,Ujjain,Private,1554,88,46,16,56,2,1,75,17.66
+SCH0877,West Bengal,Kolkata,Government,637,32,19,8,22,2,1,42,19.91
+SCH0878,Rajasthan,Ajmer,Private,169,5,6,9,8,1,1,0,33.8
+SCH0879,West Bengal,Kolkata,Government,442,22,15,14,21,1,1,39,20.09
+SCH0880,Uttar Pradesh,Prayagraj,Government,356,16,11,7,13,1,1,51,22.25
+SCH0881,Madhya Pradesh,Ujjain,Government,799,31,26,11,31,3,1,23,25.77
+SCH0882,Gujarat,Ahmedabad,Government,751,32,26,10,34,0,1,26,23.47
+SCH0883,Tamil Nadu,Coimbatore,Private,1900,76,53,15,59,4,1,81,25.0
+SCH0884,Karnataka,Dharwad,Private,558,24,17,13,24,1,1,0,23.25
+SCH0885,Gujarat,Vadodara,Government,212,9,6,10,6,0,1,24,23.56
+SCH0886,Karnataka,Belagavi,Government,286,10,8,10,7,0,1,55,28.6
+SCH0887,Tamil Nadu,Coimbatore,Government,448,13,13,15,22,1,1,29,34.46
+SCH0888,Madhya Pradesh,Bhopal,Government,139,6,4,8,3,0,1,29,23.17
+SCH0889,Karnataka,Dharwad,Government,212,8,6,5,5,0,0,0,26.5
+SCH0890,Odisha,Sambalpur,Private,807,36,27,12,28,0,1,32,22.42
+SCH0891,Uttar Pradesh,Agra,Government,155,5,5,10,8,0,1,0,31.0
+SCH0892,Karnataka,Udupi,Aided,1235,50,39,16,48,4,1,93,24.7
+SCH0893,Kerala,Kozhikode,Government,113,5,4,8,4,1,1,11,22.6
+SCH0894,Rajasthan,Ajmer,Government,202,7,6,7,9,1,1,25,28.86
+SCH0895,Gujarat,Vadodara,Government,482,17,17,10,21,0,1,22,28.35
+SCH0896,Maharashtra,Kolhapur,Government,2078,106,66,13,68,3,1,69,19.6
+SCH0897,Tamil Nadu,Tiruchirappalli,Government,182,9,5,8,4,0,1,0,20.22
+SCH0898,Rajasthan,Ajmer,Private,224,7,7,9,9,1,1,16,32.0
+SCH0899,Uttar Pradesh,Prayagraj,Private,239,8,9,12,12,0,1,22,29.88
+SCH0900,Odisha,Puri,Private,703,30,22,9,28,3,1,19,23.43
+SCH0901,Madhya Pradesh,Jabalpur,Private,635,21,21,16,26,0,1,11,30.24
+SCH0902,Madhya Pradesh,Jabalpur,Government,181,6,7,6,7,0,1,0,30.17
+SCH0903,Maharashtra,Kolhapur,Government,143,5,4,7,10,0,1,2,28.6
+SCH0904,Odisha,Puri,Government,618,22,18,10,21,3,1,18,28.09
+SCH0905,Rajasthan,Ajmer,Government,1300,100,37,16,44,3,1,61,13.0
+SCH0906,West Bengal,Nadia,Government,497,24,14,15,19,3,1,24,20.71
+SCH0907,West Bengal,Darjeeling,Government,738,24,23,13,28,2,1,15,30.75
+SCH0908,Maharashtra,Nashik,Government,107,5,4,8,7,0,1,21,21.4
+SCH0909,Karnataka,Udupi,Private,146,5,4,12,3,1,1,4,29.2
+SCH0910,West Bengal,Kolkata,Private,68,5,3,9,4,3,1,24,13.6
+SCH0911,Kerala,Thiruvananthapuram,Aided,622,25,21,12,28,2,1,41,24.88
+SCH0912,Odisha,Khordha,Private,950,45,31,17,49,2,1,83,21.11
+SCH0913,Odisha,Sambalpur,Aided,1706,74,57,16,62,4,1,66,23.05
+SCH0914,Rajasthan,Jodhpur,Government,1589,61,45,12,47,3,1,72,26.05
+SCH0915,Karnataka,Bengaluru Urban,Private,2245,104,71,15,73,3,1,66,21.59
+SCH0916,Karnataka,Dharwad,Private,1860,68,60,15,77,4,1,26,27.35
+SCH0917,Maharashtra,Nashik,Government,285,5,10,8,11,2,0,0,57.0
+SCH0918,Rajasthan,Jaipur,Private,287,5,9,9,11,1,0,8,57.4
+SCH0919,Maharashtra,Nashik,Private,114,5,4,7,5,1,1,0,22.8
+SCH0920,Uttar Pradesh,Varanasi,Government,709,21,22,12,26,1,1,35,33.76
+SCH0921,Maharashtra,Pune,Government,149,6,5,11,7,0,0,31,24.83
+SCH0922,West Bengal,Kolkata,Government,1388,50,45,13,60,5,1,58,27.76
+SCH0923,West Bengal,Nadia,Government,859,27,28,17,34,1,1,25,31.81
+SCH0924,Madhya Pradesh,Jabalpur,Private,620,29,17,11,24,1,1,28,21.38
+SCH0925,Tamil Nadu,Coimbatore,Government,88,6,3,13,7,1,1,0,14.67
+SCH0926,Uttar Pradesh,Kanpur Nagar,Government,175,5,6,8,6,0,1,24,35.0
+SCH0927,Madhya Pradesh,Ujjain,Government,159,9,6,9,3,1,1,15,17.67
+SCH0928,Kerala,Kollam,Government,1019,41,28,17,34,3,1,59,24.85
+SCH0929,Gujarat,Ahmedabad,Government,528,22,15,15,23,2,1,16,24.0
+SCH0930,Gujarat,Rajkot,Aided,759,28,23,14,30,1,1,12,27.11
+SCH0931,Odisha,Khordha,Private,213,8,7,10,9,0,1,9,26.62
+SCH0932,Maharashtra,Pune,Private,164,5,6,8,4,0,1,33,32.8
+SCH0933,Karnataka,Dharwad,Government,982,35,30,15,34,1,1,4,28.06
+SCH0934,Maharashtra,Nagpur,Government,541,25,16,9,19,2,1,19,21.64
+SCH0935,Madhya Pradesh,Jabalpur,Government,598,11,21,12,29,0,1,26,54.36
+SCH0936,Tamil Nadu,Chennai,Private,143,5,4,9,3,1,1,5,28.6
+SCH0937,Rajasthan,Jodhpur,Government,1565,73,43,14,52,3,1,20,21.44
+SCH0938,Maharashtra,Pune,Private,164,5,6,8,6,0,1,2,32.8
+SCH0939,Uttar Pradesh,Prayagraj,Private,1299,69,36,12,46,4,0,80,18.83
+SCH0940,Maharashtra,Pune,Government,322,15,9,13,7,0,1,3,21.47
+SCH0941,Kerala,Kozhikode,Private,52,5,3,10,5,0,1,10,10.4
+SCH0942,Gujarat,Bhavnagar,Government,1322,57,39,15,44,3,1,66,23.19
+SCH0943,Odisha,Ganjam,Government,150,8,5,7,4,0,1,16,18.75
+SCH0944,Rajasthan,Udaipur,Government,687,40,24,11,28,2,1,42,17.18
+SCH0945,Rajasthan,Udaipur,Government,760,43,26,13,24,2,1,17,17.67
+SCH0946,Maharashtra,Nagpur,Private,290,8,9,8,13,0,1,5,36.25
+SCH0947,Madhya Pradesh,Bhopal,Private,712,18,20,10,30,1,1,28,39.56
+SCH0948,Gujarat,Ahmedabad,Government,968,36,29,10,45,2,1,59,26.89
+SCH0949,Odisha,Khordha,Government,1781,72,52,12,58,3,1,41,24.74
+SCH0950,Uttar Pradesh,Agra,Government,62,5,3,10,8,0,1,9,12.4
+SCH0951,Maharashtra,Nagpur,Private,350,8,12,10,16,3,1,29,43.75
+SCH0952,West Bengal,Kolkata,Government,90,5,3,8,5,1,1,4,18.0
+SCH0953,Rajasthan,Jodhpur,Private,250,9,7,7,10,0,1,16,27.78
+SCH0954,Rajasthan,Kota,Government,84,5,3,7,4,0,1,0,16.8
+SCH0955,Rajasthan,Jaipur,Government,950,49,30,13,36,4,1,72,19.39
+SCH0956,Madhya Pradesh,Gwalior,Government,1859,94,57,12,64,3,1,68,19.78
+SCH0957,Odisha,Cuttack,Private,536,26,15,12,16,1,1,24,20.62
+SCH0958,Rajasthan,Jodhpur,Government,799,28,26,10,32,0,1,0,28.54
+SCH0959,Madhya Pradesh,Bhopal,Government,888,27,30,13,39,2,1,35,32.89
+SCH0960,Odisha,Puri,Private,350,12,10,14,18,2,1,37,29.17
+SCH0961,Maharashtra,Nagpur,Private,350,18,12,13,13,1,1,16,19.44
+SCH0962,Rajasthan,Ajmer,Government,484,21,16,15,20,2,1,7,23.05
+SCH0963,Gujarat,Bhavnagar,Government,79,5,3,7,5,0,1,0,15.8
+SCH0964,Maharashtra,Nagpur,Aided,162,6,4,10,5,1,1,22,27.0
+SCH0965,West Bengal,Hooghly,Government,1172,48,31,17,35,4,1,71,24.42
+SCH0966,Madhya Pradesh,Bhopal,Aided,758,27,22,12,26,2,1,24,28.07
+SCH0967,Gujarat,Surat,Government,1436,49,44,16,51,5,1,68,29.31
+SCH0968,Maharashtra,Pune,Private,122,5,4,8,8,1,1,24,24.4
+SCH0969,Maharashtra,Nagpur,Government,684,27,20,15,26,2,1,53,25.33
+SCH0970,Tamil Nadu,Madurai,Government,126,6,4,11,8,1,1,16,21.0
+SCH0971,Madhya Pradesh,Bhopal,Government,227,7,6,8,7,0,1,1,32.43
+SCH0972,Kerala,Thiruvananthapuram,Government,262,7,9,10,8,1,0,11,37.43
+SCH0973,Karnataka,Udupi,Private,209,9,7,10,8,0,1,8,23.22
+SCH0974,Karnataka,Mysuru,Private,950,28,30,13,43,5,1,76,33.93
+SCH0975,Odisha,Ganjam,Government,247,5,7,7,10,0,1,7,49.4
+SCH0976,Uttar Pradesh,Varanasi,Government,428,17,15,10,15,2,1,6,25.18
+SCH0977,Odisha,Cuttack,Aided,453,16,16,11,24,2,1,24,28.31
+SCH0978,Odisha,Ganjam,Government,801,34,26,8,30,1,1,3,23.56
+SCH0979,Maharashtra,Kolhapur,Private,763,29,21,13,28,3,1,0,26.31
+SCH0980,Madhya Pradesh,Jabalpur,Private,181,5,6,10,7,0,1,0,36.2
+SCH0981,Rajasthan,Jaipur,Private,1520,63,41,14,45,6,1,59,24.13
+SCH0982,Maharashtra,Nashik,Government,1825,87,54,18,68,3,1,66,20.98
+SCH0983,Tamil Nadu,Salem,Government,779,28,23,8,24,1,1,29,27.82
+SCH0984,Tamil Nadu,Coimbatore,Private,866,27,28,10,38,2,1,28,32.07
+SCH0985,Uttar Pradesh,Varanasi,Government,285,9,10,7,13,0,1,2,31.67
+SCH0986,Uttar Pradesh,Kanpur Nagar,Private,2264,96,62,19,69,2,1,47,23.58
+SCH0987,Odisha,Khordha,Aided,115,5,4,6,5,2,0,4,23.0
+SCH0988,Rajasthan,Jaipur,Government,265,9,7,9,11,2,1,10,29.44
+SCH0989,Uttar Pradesh,Agra,Government,198,7,7,9,9,1,1,0,28.29
+SCH0990,Odisha,Ganjam,Government,694,35,21,10,29,1,1,15,19.83
+SCH0991,Gujarat,Rajkot,Government,727,34,23,11,27,1,1,8,21.38
+SCH0992,West Bengal,Nadia,Government,629,20,19,12,19,1,1,0,31.45
+SCH0993,Kerala,Thiruvananthapuram,Private,472,19,15,9,19,2,1,25,24.84
+SCH0994,Rajasthan,Jodhpur,Aided,178,8,5,9,6,1,0,18,22.25
+SCH0995,Tamil Nadu,Madurai,Government,1314,54,39,13,49,5,1,71,24.33
+SCH0996,Madhya Pradesh,Gwalior,Government,377,14,11,11,12,2,1,32,26.93
+SCH0997,Uttar Pradesh,Agra,Government,602,24,19,9,19,1,1,37,25.08
+SCH0998,West Bengal,Nadia,Aided,274,5,8,10,7,0,1,0,54.8
+SCH0999,Karnataka,Udupi,Government,1209,53,33,15,43,2,1,67,22.81
+SCH1000,Rajasthan,Jaipur,Government,166,5,5,10,7,0,1,38,33.2
